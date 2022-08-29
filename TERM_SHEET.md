@@ -7,20 +7,20 @@ The following points will explain which party will lead which area.
 
 * The Thunderbird Council is responsible for:
 
-  * The Thunderbird project including product strategy, technology, features and new business lines that relate directly to Thunderbird
-  * Stewardship of the funds collected through Thunderbird donations and new business lines that result from those funds.
-  * Developing overall yearly goals for the Thunderbird Project
+  * The Thunderbird project including product strategy, technology, features and new business lines that relate directly to Thunderbird;
+  * Stewardship of the funds collected through Thunderbird donations and new business lines that result from those funds;
+  * Developing overall yearly goals for the Thunderbird Project; and
   * First approval of the project budget which is compiled and proposed by MZLA leadership. Final approval of the budget, signed-off by the Council, is required each year by the MZLA Board.
 
   The Council plays an advisory role to the MZLA Board in setting yearly goals for the staff on the staff leadership team.
 
 * MZLA Technologies, represented by the MZLA Board, is responsible for:
 
-  * Legal and fiscal matters related to the hosting and delivering of the Thunderbird project.
-  * Approval of the yearly budget as proposed and signed-off by the Council.
-  * Daily management of the staff via the staff leadership team, which is currently made up by the Director of Operations, Product and Business Manager, and Technical Manager.
-  * Setting yearly goals and running annual performance reviews for staff on the leadership team, with the Council acting as an advisor in setting the yearly goals
-  * Day to day budget management, including managing spending within the approved yearly budget.
+  * Legal and fiscal matters related to the hosting and delivering of the Thunderbird project;
+  * Approval of the yearly budget as proposed and signed-off by the Council;
+  * Daily management of the staff via the staff leadership team, which is currently made up by the Director of Operations, Product and Business Manager, and Technical Manager;
+  * Setting yearly goals and running annual performance reviews for staff on the leadership team, with the Council acting as an advisor in setting the yearly goals;
+  * Day to day budget management, including managing spending within the approved yearly budget; and
   * Management of the Thunderbird trademark on behalf of Mozilla Foundation.
 
   It should be noted that MZLA was chartered to be a general purpose operating company for Mozilla affiliated products, services and projects not managed by Mozilla Corporation. MZLA may create or acquire other, independent open source projects that do not rely on trademarks, funds or any other resource associated with the Thunderbird project and thus do not fall under this term sheet.
@@ -35,9 +35,9 @@ The following points will explain which party will lead which area.
 
   * The oversight of the funds collected through Thunderbird will be operated as follows:
 
-    * Creation of a budget as attached by the staff leadership team, with descriptions for each budget line item. The yearly budget will be presented to the MZLA Board and Council for approval and possible modifications prior to year-end. As the fiscal home of the Thunderbird project, MZLA and its Board are the final and ultimate decision maker in relation to the annual budget.
+    * Creation of a budget as attached by the staff leadership team, with descriptions for each budget line item. The yearly budget will be presented to the MZLA Board and Council for approval and possible modifications prior to year-end. As the fiscal home of the Thunderbird project, MZLA and its Board are the final and ultimate decision makers in relation to the annual budget.
     * Within 45 days of quarter-end, presentation of the quarterly financials and budget/actual comparisons by budgeted line item by the staff leadership team at the quarterly business review meetings.
-    * Proposed budget changes will also be presented at the quarterly business review meetings. Changes of more than 30% per budget category or 10% of the whole budget, whichever is less, up or down within major budget categories, and/or budget re-allocations between budget categories require majority approval by each of the Council and the MZLA Board.
+    * Proposed budget changes will also be presented at the quarterly business review meetings. Changes of more than 30% per budget category or 10% of the whole budget, whichever is less, up or down within major budget categories, and/or budget reallocations between budget categories require majority approval by each of the Council and the MZLA Board.
 
   * The oversight of the staff leadership team will be managed as follows:
 
@@ -49,7 +49,7 @@ The following points will explain which party will lead which area.
 
   It is expected that the Council and MZLA should typically resolve disputes via mutual conversation and collaboration. Nevertheless, there is the potential for unresolvable conflicts. Should this occur, conflicts will be resolved by the following process unless otherwise specified in the document:
 
-  Should  one party be unhappy with the handling of any of the collaboration or decision making mentioned in this document, it may send notice to the other party noting the two parties are in a dispute. The party receiving the notice will respond with a proposed resolution of the issue within 14 days, and within the limits of rest of the Term Sheet.
+  Should one party be unhappy with the handling of any of the collaboration or decision making mentioned in this document, it may send notice to the other party noting the two parties are in a dispute. The party receiving the notice will respond with a proposed resolution of the issue within 14 days, and within the limits of rest of the Term Sheet.
 
   Should the party providing notice not be satisfied with the resolution, it will provide in writing a counter proposal. If the counter proposal is not accepted, either party may opt to pass a resolution appealing to an independent party to resolve the dispute.
 

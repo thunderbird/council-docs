@@ -15,6 +15,34 @@ The current election process is detailed below.
 5. In the case there are more than two people nominated from the same professional affiliation, a pre-election will take place first, and the two winners will continue to the real election. The 'Mozilla Corporation', the 'Mozilla Foundation', and ‘MZLA Technologies’ are (considered) separate companies for purposes of "professional affiliation”.
 6. Electors shall vote for Council members from the list of those standing for election, with the specific method and process selected by a neutral third-party observer.
 7. The voting process shall select a Council of seven members, each with a one-year term. Voting will occur on an external, secure voting-as-a-service platform. If more than seven people stand for election, voting will be done using “ranked choice”, with conversion of the individual choices into an elected council done using the Scottish STV method. If seven or fewer persons stand for election, then the voting shall consist of a simple yes or no to accept or decline the entire slate as the elected Council.
+   
+### Thunderbird Project Election Observer
+
+**Description:**
+
+The primary functions of the election "observer" during the election process are as follows:
+1. Be an impartial party.
+2. Privately or publicly raise concerns if any person - participant, election manager, or council - acts improperly. And may also directly communicate with the council and the public.
+3. Approve the documented election process as proposed by the council as being fair and correct.
+4. Assures that the documented election process is actually properly applied throughout the election period.
+5. Works closely with the council appointed election manager(s).
+6. Regarding moderation and the election mailing list, discussion period, and participant conduct - the observer doesn't actually setup, run and moderate the mailing; that is done by council appointed "manager(s)" who build/implement/manage the election process . _The observer should have all the powers that the managers have AND be able to see all the moderation activity, all emails and all communications_ - to be able to fulfill their responsibility of observing and ensuring the process is properly and fairly applied.
+7. (In this step, the observer _is the primary driver_) Be the ONLY person to administer the voting service, and run the vote. There must be no possibility for any other person to influence the election.
+8. Announces the vote result.
+
+It should also be noted, that CPG is to be observed throughout the process. It is not the observer's job to enforce CPG, but it would be entirely proper to be involved in determining if CPG violations have occurred. The observer will need to engage with the CPG team if and when necessary during the process.
+
+**The number of hours:**
+
+This depends on the amount of discussion and controversy, if any, during the election period.
+
+Baseline 5-10 hours in the 5-6 week period, if there are no election hurdles.
+
+Top end, 15-20 hours
+
+**Pay:**
+
+This is a voluntary position, with non-monetary compensation.
 
 ### Electorate
 

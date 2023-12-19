@@ -35,7 +35,7 @@ The Thunderbird Council shall meet immediately after their election for the purp
 
 The current election process is detailed below.
 
-1. A list of persons eligible to vote (the "electors") shall be established by the existing Thunderbird Council, based on the section entitled “Membership Eligibility” below for how this is done. The names of the electors will be made public.
+1. A list of persons eligible to vote (the "electors") shall be established by the existing Thunderbird Council, based on the section entitled “[Membership Eligibility](#eligibility)” below for how this is done. The names of the electors will be made public.
 2. The list of electors will be entered into a private mailing list (currently known as tb-election) that will be created for the purpose of managing the Thunderbird Council election. All people with voting rights will be added to that list, and any discussion of the nominees and candidates, and any specific instructions on how to vote, will be distributed through that list and only through that list. Once the discussion period has started, all members of the list can post freely to the list (subject only to moderation for abusive posts) to discuss any issues relevant to the election.
 3. Persons on the electorate list who desire to stand for election should send their self-announcement to the list, titled: “Standing for Election:”, stating in the body of the email:
     1. name;
@@ -45,7 +45,7 @@ The current election process is detailed below.
 4. It is the responsibility of the person desiring to stand to make sure their message makes it to the list. No late self-announcements will be accepted for any reason.
 5. In the case there are more than two people nominated from the same professional affiliation, a pre-election will take place first, and the two winners will continue to the real election. The 'Mozilla Corporation', the 'Mozilla Foundation', and ‘MZLA Technologies’ are (considered) separate companies for purposes of "professional affiliation”.
 6. Electors shall vote for Thunderbird Council members from the list of those standing for election, with the specific method and process selected by a neutral third-party observer.
-7. The voting process shall select a Thunderbird Council of seven members, each with a one-year term as described in sections “Composition” and “Term”. Voting will occur on an external, secure voting-as-a-service platform. If more than seven people stand for election, voting will be done using “ranked choice”, with conversion of the individual choices into an elected Thunderbird Council done using the Scottish STV method.
+7. The voting process shall select a Thunderbird Council of seven members, each with a one-year term as described in sections “[Composition](#composition)” and “[Term](#term)”. Voting will occur on an external, secure voting-as-a-service platform. If more than seven people stand for election, voting will be done using “ranked choice”, with conversion of the individual choices into an elected Thunderbird Council done using the Scottish STV method.
 8. If fewer than or equal to the nominal number of Councilors stand for election, then the voting shall consist of a simple yes or no to accept or decline the entire slate as the elected Thunderbird Council. If the answer is no, the election process is repeated until a slate is elected.
 
 ### Thunderbird Project Election Observer
@@ -99,7 +99,7 @@ Below is a rough timeline of the events that should happen, the community should
 
 Contributors are eligible to vote in Thunderbird Council elections if they fulfill the following requirements:
 
-Elector qualification is 10 hours of contribution per year of involvement in the project, with a three year look back. Thus, if someone first became involved: three years ago then the expected contribution is at least 30 hours, if two years ago then at least 20 hours, and if one year ago or less then at least 10 hours. Contributors may self-nominate, and on request must submit examples that illustrate their level of involvement.
+Elector qualification is 10 hours of contribution per year of involvement in the project, with a three year look back. Thus, if someone first became involved: three years ago then the expected contribution is at least 30 hours, if two years ago then at least 20 hours, and if one year ago or less than at least 10 hours. Contributors may self-nominate, and on request must submit examples that illustrate their level of involvement.
 
 ## Thunderbird Council
 
@@ -197,7 +197,7 @@ The Thunderbird Council shall keep written minutes of its proceedings in its per
 
 ### Community Updates
 
-It is the duty of the Council to update the Community about ongoing discussions, allowing the community to participate and weigh in on a regular basis to encourage community participation. These updates must be free from confidential information, see [Confidentiality].
+It is the duty of the Council to update the Community about ongoing discussions, allowing the community to participate and weigh in on a regular basis to encourage community participation. These updates must be free from confidential information, see [Confidentiality](#confidentiality).
 
 A summary of the meeting shall be shared with the Thunderbird community before the next regularly scheduled meeting.
 

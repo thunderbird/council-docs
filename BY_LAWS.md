@@ -61,7 +61,7 @@ The primary functions of the election "observer" during the election process are
 5. Works closely with the Thunderbird Council appointed election manager(s).
 6. The observer should setup, run and moderate the election mailing list to be able to fulfill their responsibility of observing and ensuring the process is properly and fairly applied. They may request the assistance of Thunderbird Council appointed “manager(s)” to setup, build, implement, and manage the election process, but the observer must have all the powers that the managers have AND be able to see all the moderation activity, all emails and all communications - to be able to fulfill their responsibility of observing and ensuring the process is properly and fairly applied.
 7. (In this step, the observer is the primary driver) Be the ONLY person to administer the voting service, and run the vote. There must be no possibility for any other person to influence the election.
-8 .Announces the vote result.
+8. Announces the vote result.
 
 It should also be noted that the CPG is to be observed throughout the process. It is not the observer's job to enforce the CPG, but it would be entirely proper to be involved in determining if CPG violations have occurred. The observer will need to engage with the CPG team if and when necessary during the process.
 

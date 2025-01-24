@@ -43,7 +43,11 @@ The current election process is detailed below.
     3. a statement summarizing their contributions to Thunderbird; and
     4. a personal statement.
 4. It is the responsibility of the person desiring to stand to make sure their message makes it to the list. No late self-announcements will be accepted for any reason.
-5. In the case there are more than two people nominated from the same professional affiliation, a pre-election will take place first, and the two winners will continue to the real election. The 'Mozilla Corporation', the 'Mozilla Foundation', and ‘MZLA Technologies’ are (considered) separate companies for purposes of "professional affiliation”.
+5. No single organization or company will be allowed to control more than 2 seats of the Council, regardless of election results. Mozilla Foundation, Mozilla Corporation, and MZLA Technologies Corporation are considered separate organizations.
+
+   In the event that individuals affiliated with a corporation or organization hold more than 2 seats, affiliates from that corporation will be required to resign until more than 2 seats are no longer held.
+
+   Individuals affiliated with a company or organization are people who are employees, officers, or members of the board of directors of an organization; or have a significant consulting relationship; or own at least 1% of the equity or debt, or derivatives thereof, of a company.
 6. Electors shall vote for Thunderbird Council members from the list of those standing for election, with the specific method and process selected by a neutral third-party observer.
 7. The voting process shall select a Thunderbird Council of seven members, each with a one-year term as described in sections “[Composition](#composition)” and “[Term](#term)”. Voting will occur on an external, secure voting-as-a-service platform. If more than seven people stand for election, voting will be done using “ranked choice”, with conversion of the individual choices into an elected Thunderbird Council done using the Scottish STV method.
 8. If fewer than or equal to the nominal number of Councilors stand for election, then the voting shall consist of a simple yes or no to accept or decline the entire slate as the elected Thunderbird Council. If the answer is no, the election process is repeated until a slate is elected.
@@ -75,23 +79,19 @@ Typically it takes 5–10 hours in the 5–6 week period, if there are no electi
 
 This is a voluntary position, with non-monetary compensation.
 
-### Schedule & Timeline
+### Election timetable
 
-Below is a rough timeline of the events that should happen, the community should be kept up-to-date for each of these events.
+The election process will start on the first Monday of March every 2 years.
 
-1. Electoral roll created and published
-2. Announce the electoral roll
-3. Self-nominations to electoral roll: 1 week
-4. Voter list finalised & mailing list established
-5. Self-nomination period: 1 week
-6. Discussion period: 1 week
-7. (Potentially) Pre-election voting emails sent out, if more than 2 nominations from the same professional affiliation
-8. (Potentially) Pre-election voting is open: 1 week
-9. Voting emails sent out
-10. Voting is open: 1 week
-11. Voting closes
-12. Results announced
-13. New Thunderbird Council takes effect
+The election timetable shall run as follows:
+
+1. Electoral roll created and published (january)
+2. Announcement of the election on first Monday of March
+3. Nominations to the Council (1 week)
+4. Discussion period (1 week)
+5. Pre-election voting period (1 week)
+6. Voting period (1 week)
+7. Results announced
 
 ## Membership
 
@@ -99,7 +99,18 @@ Below is a rough timeline of the events that should happen, the community should
 
 Contributors are eligible to vote in Thunderbird Council elections if they fulfill the following requirements:
 
-Elector qualification is 10 hours of contribution per year of involvement in the project, with a three year look back. Thus, if someone first became involved: three years ago then the expected contribution is at least 30 hours, if two years ago then at least 20 hours, and if one year ago or less than at least 10 hours. Contributors may self-nominate, and on request must submit examples that illustrate their level of involvement.
+Elector qualification is 20 hours of contribution within the previous two years.
+
+To avoid conflicting duties from multiple directorships, members of the board of directors of Mozilla Foundation, Mozilla Corporation, and MZLA Technologies Corporation may not serve on the Thunderbird Council.
+
+### Renewal
+
+Contributors must renew their membership each year during the month of January. Their membership renewal must contain:
+
+1. Name;
+2. Email;
+3. Current professional affiliation (if any);
+4. A statement summarizing their contributions to Thunderbird including a link for their accounts on our platforms (e.g. ATN, SUMO, Pontoon, Bugzilla).
 
 ## Thunderbird Council
 
@@ -109,7 +120,7 @@ The Thunderbird Council is composed of nominally seven (7) members elected at th
 
 ### Term
 
-Each councilor is elected for a one year term during the Annual Election. After a one year term has expired the only remaining power the Thunderbird Council has is to hold Annual Elections.
+Each councilor is elected for a two year term during the council election.
 
 ### Roles
 
@@ -154,11 +165,9 @@ Members of the Council are indemnified under the bylaws of MZLA Technologies Cor
 
 ### Vacancies
 
-Vacancies are filled at the next regular election by electing a person for a full new term. As such, vacancies may remain vacant for up to one year. A vacancy is created whenever there are fewer than the nominal number of Council members, including, but not limited to, an election resulting in fewer than the nominal number of members, a resignation or death of a Council member.
+A vacancy is created whenever there are fewer than the nominal number of Council members, including, but not limited to, an election resulting in fewer than the nominal number of members, a resignation or death of a Council member.
 
-If the number of Councilors falls below the minimum number of Council members, a new election will occur.
-
-Vacant positions are no longer counted as Council members for the purpose of calculating quorum.
+Vacancies are filled by appointment of 2/3rds vote of active Council members. An appointed Council member must have a valid membership and should serve until the current term is over.
 
 ### Resignation
 

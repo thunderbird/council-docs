@@ -43,13 +43,13 @@ The current election process is detailed below.
     3. a statement summarizing their contributions to Thunderbird; and
     4. a personal statement.
 4. It is the responsibility of the person desiring to stand to make sure their message makes it to the list. No late self-announcements will be accepted for any reason.
-5. No single organization or company will be allowed to control more than 2 seats of the Council, regardless of election results. Mozilla Foundation, Mozilla Corporation, and MZLA Technologies Corporation are considered separate organizations.
+5. In the case there are more than two people nominated from the same professional affiliation, a pre-election will take place first, and the two winners will continue to the real election. No single organization or company will be allowed to control more than 2 seats of the Council, regardless of election results. Mozilla Foundation, Mozilla Corporation, and MZLA Technologies Corporation are considered separate organizations.
 
    In the event that individuals affiliated with a corporation or organization hold more than 2 seats, affiliates from that corporation will be required to resign until more than 2 seats are no longer held.
 
    Individuals affiliated with a company or organization are people who are employees, officers, or members of the board of directors of an organization; or have a significant consulting relationship; or own at least 1% of the equity or debt, or derivatives thereof, of a company.
 6. Electors shall vote for Thunderbird Council members from the list of those standing for election, with the specific method and process selected by a neutral third-party observer.
-7. The voting process shall select a Thunderbird Council of seven members, each with a one-year term as described in sections “[Composition](#composition)” and “[Term](#term)”. Voting will occur on an external, secure voting-as-a-service platform. If more than seven people stand for election, voting will be done using “ranked choice”, with conversion of the individual choices into an elected Thunderbird Council done using the Scottish STV method.
+7. The voting process shall select a Thunderbird Council of seven members, each with a two-year term as described in sections “[Composition](#composition)” and “[Term](#term)”. Voting will occur on an external, secure voting-as-a-service platform. If more than seven people stand for election, voting will be done using “ranked choice”, with conversion of the individual choices into an elected Thunderbird Council done using the Scottish STV method.
 8. If fewer than or equal to the nominal number of Councilors stand for election, then the voting shall consist of a simple yes or no to accept or decline the entire slate as the elected Thunderbird Council. If the answer is no, the election process is repeated until a slate is elected.
 
 ### Thunderbird Project Election Observer
@@ -85,7 +85,7 @@ The election process will start on the first Monday of March every 2 years.
 
 The election timetable shall run as follows:
 
-1. Electoral roll created and published (january)
+1. Electoral roll created and published (January)
 2. Announcement of the election on first Monday of March
 3. Nominations to the Council (1 week)
 4. Discussion period (1 week)
@@ -116,7 +116,7 @@ Contributors must renew their membership each year during the month of January. 
 
 ### Composition
 
-The Thunderbird Council is composed of nominally seven (7) members elected at the Annual Election. There must be a minimum of four (4) members. The number of active members is the number of non-vacant seats on the Council.
+The Thunderbird Council is composed of nominally seven (7) members elected at the Election every two (2) years. There must be a minimum of four (4) members. The number of active members is the number of non-vacant seats on the Council.
 
 ### Term
 

@@ -1,9 +1,25 @@
 # Council Motion History
 Council motions are used for formal decision making in the Thunderbird Council. See the [bylaws](https://github.com/thunderbird/council-docs/blob/main/BY_LAWS.md#decision-making-process) for more information. This document captures the formal decisions that have been made, which go beyond informal discussion that can happen in addition.
 
+## 2025-2026
+
+**Term**: Ongoing since April 16, 2025
+
+**Council Members:**
+- Philipp Kewisch (Chair)
+- Patrick Cloke (Secretary)
+- Magnus Melin
+- Michele Zelco
+- Teal Dulcet
+- Tim Maks van den Broek
+
+<table><tr><th>Motion</th><th>Details</th><th>Votes</th><th>Statements</th>
+<tr><td valign="top"><p>With the new two year council term, council roles will be re-elected after one year has passed. This allows for a transition, and potentially new council members stepping up after they have experienced council operations.</p></td><td valign="top">2025-05-12<br>Proposed: Magnus<br><br>Seconded: Philipp</td><td valign="top">Yes: Magnus, Mic, Patrick, Philipp, Teal, Tim Maks</td><td valign="top"></td></tr>
+</table>
+
 ## 2024-2025
 
-**Term**: Ongoing since February 02, 2024
+**Term**: February 02, 2024 to April 16, 2025
 
 **Council Members:**
 - Danny Colin (Chair)

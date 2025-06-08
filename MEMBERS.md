@@ -1,4 +1,4 @@
-# Council Members
+# Thunderbird Council Members
 ## 2025-2026
 
 **Term**: Ongoing since April 16, 2025

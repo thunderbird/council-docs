@@ -15,6 +15,7 @@ Council motions are used for formal decision making in the Thunderbird Council. 
 
 <table><tr><th>Motion</th><th>Details</th><th>Votes</th><th>Statements</th>
 <tr><td valign="top"><p>With the new two year council term, council roles will be re-elected after one year has passed. This allows for a transition, and potentially new council members stepping up after they have experienced council operations.</p></td><td valign="top">2025-05-12<br>Proposed: Magnus<br><br>Seconded: Philipp</td><td valign="top">Yes: Magnus, Mic, Patrick, Philipp, Teal, Tim Maks</td><td valign="top"></td></tr>
+<tr><td valign="top"><p>The Council approves the charter initiating the Council Webpage CWG with the intent of providing more public information about the council and how it operates.</p></td><td valign="top">2025-06-05<br>Proposed: Teal<br><br>Seconded: Philipp</td><td valign="top">Yes: Mic, Patrick, Philipp, Teal, Tim Maks</td><td valign="top"></td></tr>
 </table>
 
 ## 2024-2025

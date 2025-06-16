@@ -14,7 +14,7 @@ creates unnecessary debate before the work begins.
 
 ## 2025-2026
 
-## Council Webpage Work Group
+## Council Webpage Working Group
 
 <table>
 
@@ -45,6 +45,30 @@ overview:</p>
 <tr><td valign="top">Risks</td><td><ul>
 <li>If we pack too much information into the web page, we risk losing focus and not
   appealing to the community audience</li>
+</ul></td></tr>
+</table>
+
+## Council New Term Sheet Working Group
+
+<table>
+
+<tr><td valign="top">Timeframe</td><td>June 09, 2025–December 31, 2025</td></tr>
+<tr><td valign="top">Participants</td><td>Mic, Philipp</td></tr>
+<tr><td valign="top">Purpose</td><td><p>The Council Term Sheet outlines the framework for interactions between the Council and
+MZLA. Given MZLA’s significant growth in recent years, there is a recognized need to
+update the Term Sheet to more accurately reflect the Council’s evolving role as a
+strategic steering committee.</p></td></tr>
+<tr><td valign="top">Scope</td><td><ul>
+<li>Clarify the Council’s role as a strategic steering committee for MZLA.</li>
+<li>Define the channels and frequency of interaction between the Council and MZLA leadership.</li>
+<li>Establish clear expectations for the Council’s input on key initiatives and decisions.</li>
+<li>Ensure alignment between the Council’s advisory function and MZLA’s long-term goals.</li>
+</ul></td></tr>
+<tr><td valign="top">Goals</td><td><ul>
+<li>Clarify and improve the Council’s strategic role and responsibilities with MZLA’s evolving priorities.</li>
+<li>Update the Term Sheet to reflect how Thunderbird has grown, clearly outlining roles,
+  responsibilities, and decision-making processes.</li>
+<li>Improve coordination between the Council and MZLA leadership with clearer communication practices.</li>
 </ul></td></tr>
 </table>
 

@@ -1,0 +1,17 @@
+site_name: Thunderbird Community Council
+nav:
+  - Home: index.md
+
+# Mkdocs is built with the mkdocs and readthedocs themes. Other themes
+# are available. See https://www.mkdocs.org/user-guide/choosing-your-theme/
+#
+#theme: readthedocs
+
+# We can use the 'mkdocs-video' plugin to embed a video, but that
+# requires the video file to be hosted in this repository, which seems
+# like a waste of storage space when we can just point people to youtube.
+#
+# If the 'mkdocs-video' plugin is used, then you need to 'pip install mkdocs-video'
+#
+#plugins:
+#  - mkdocs-video

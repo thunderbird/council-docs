@@ -72,3 +72,25 @@ strategic steering committee.</p></td></tr>
 </ul></td></tr>
 </table>
 
+## Council Bylaws Working Group
+
+<table>
+
+<tr><td valign="top">Timeframe</td><td>June 20, 2025–December 31, 2025</td></tr>
+<tr><td valign="top">Participants</td><td>Patrick, Tim Maks</td></tr>
+<tr><td valign="top">Purpose</td><td><p>Clarify the Council’s bylaws to improve internal and external processes to be more
+efficient and transparent.</p></td></tr>
+<tr><td valign="top">Scope</td><td><p>Clarify how the Council makes decisions. We roughly follows Robert’s Rules, but there are
+some areas that could use clarification:</p>
+<ul>
+<li>What happens if a Council member abstains?</li>
+<li>How does voting asynchronously work?</li>
+<li>How do we know when we’re ready to vote? Clarify the voting period.</li>
+<li>General clarifications of how the process works. (Write the process down.)</li>
+</ul></td></tr>
+<tr><td valign="top">Goals</td><td><p>One or more motions to update the bylaws.</p></td></tr>
+<tr><td valign="top">Risks</td><td><p>The areas of improvement for the bylaws are somewhat unrelated, there’s a risk of being
+unfocused. This will be mitigated by focusing on a single area of the bylaws at a time and
+re-approve the scope each time.</p></td></tr>
+</table>
+

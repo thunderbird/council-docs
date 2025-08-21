@@ -14,6 +14,54 @@ creates unnecessary debate before the work begins.
 
 ## 2025-2026
 
+## Roadmaps Working Group
+
+<table>
+
+<tr><td valign="top">Timeframe</td><td>August 04, 2025–December 31, 2025</td></tr>
+<tr><td valign="top">Participants</td><td>Magnus, Teal</td></tr>
+<tr><td valign="top">Purpose</td><td><p>The Roadmaps CWG exists to provide a clear, transparent conduit between the Thunderbird Council and MZLA Technologies for defining, refining, and monitoring Thunderbird’s desktop, mobile and services roadmaps. Its mandate is to secure strategic alignment, community confidence, and long-term sustainability—while leaving day-to-day engineering decisions with the appropriate product teams.</p></td></tr>
+<tr><td valign="top">Scope</td><td><ul>
+<li>Gather roadmap proposals and context from MZLA teams, the full Council, and community channels (e.g.
+  Connect, Bugzilla, GitHub).</li>
+<li>Facilitate dialogue that surfaces trade-offs, dependencies and risk, and steers the group toward broad
+  consensus.</li>
+<li>Provide consulting to MZLA in creating the high-level roadmap artifacts for each major product or service,
+  at a level suitable for Council approval and public communication.</li>
+<li>Recommend mechanisms for tracking progress and for handling mid-cycle adjustments—so the Council can
+  intervene early if necessary.</li>
+</ul>
+<p>Key Principles:</p>
+<ul>
+<li>Shared Ownership – Council and MZLA collaborate as equal partners; final approval rests with the Council.</li>
+<li>Evidence-Driven – Proposals are supported by effort and risk estimates, user feedback, and quality metrics.</li>
+<li>Community – Community-voiced needs are incorporated transparently and given meaningful weight.</li>
+<li>Adaptability – Frameworks for change management and quarterly check-ins allow the roadmap to evolve.</li>
+<li>Focus on Quality – Continuous improvement of stability, security, and user experience are integrated.</li>
+</ul></td></tr>
+<tr><td valign="top">Goals</td><td><p>Deliverables:</p>
+<ul>
+<li>Roadmap Package – A concise, prioritized set of roadmap items for each product area (desktop, Android, iOS,
+  services, etc.) including owners, broad timelines, and headline success criteria</li>
+<li>Change-Management Guide – A short playbook describing how roadmap updates are proposed, reviewed and—when
+  material—re-approved by the Council.</li>
+<li>Quarterly Review Outline – Agreed cadence, inputs, and outputs for progress check-ins between MZLA
+  leadership and the Council.</li>
+</ul>
+<p>Goals:</p>
+<ul>
+<li>Roadmaps ratified by the Council within the charter period.</li>
+<li>Clear and accepted process for mid-year adjustments in place before roadmap execution begins.</li>
+<li>Positive feedback from Council, MZLA leadership and the wider community on transparency and collaboration.</li>
+</ul></td></tr>
+<tr><td valign="top">Risks</td><td><ul>
+<li>Misalignment on priorities - Early joint meetings</li>
+<li>Scope creep into execution detail - Charter explicitly limits WG remit</li>
+<li>Resource or capacity constraints - Require effort and risk context before items are prioritized</li>
+<li>Communication delays - Bimonthly synchronous meeting; shared living document for status updates</li>
+</ul></td></tr>
+</table>
+
 ## Council Webpage Working Group
 
 <table>

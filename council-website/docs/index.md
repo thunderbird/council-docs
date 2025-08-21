@@ -29,8 +29,6 @@ For more information about the Council, see this [video with Council members Dan
 ## <span class="fa-solid fa-check-to-slot"></span> Join the Election Roll
 Interested in making a difference in the Thunderbird community? Anyone who has contributed 20 hours to Thunderbird in the past two years (10 hours per year) is invited to join the Election Roll, which allows them to vote and stand for election. To register, just fill out [this form](https://cryptpad.fr/form/#/2/form/view/za5BEKxIHki3yNBtj1PrAJ1awtVN8eHinTSQuiUKpJ0/). Starting in 2025, the election now occurs every two years. The next election starts in March 2027.
 
-<embed src="img/Thunderbird%20Council%20Election.pdf" width="600" height="600" type="application/pdf">
-
 ## <span class="fa-solid fa-hand"></span> Get Involved
 Contribute to Thunderbird: [Participate - Thunderbird](https://www.thunderbird.net/participate/) Also see: [Codetribute](https://codetribute.mozilla.org/projects/thunderbird)
 

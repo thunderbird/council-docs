@@ -1,0 +1,29 @@
+site_name: Thunderbird Council
+repo_url: https://github.com/thunderbird/council-docs
+edit_uri: blob/main/council-website/docs/
+site_description: The Mozilla Thunderbird Council is the elected governing body for the Thunderbird Project.
+site_author: Teal Dulcet
+nav:
+  - Home: index.md
+
+# Mkdocs is built with the mkdocs and readthedocs themes. Other themes
+# are available. See https://www.mkdocs.org/user-guide/choosing-your-theme/
+#
+theme:
+  name: mkdocs
+  color_mode: auto
+  user_color_mode_toggle: true
+
+# We can use the 'mkdocs-video' plugin to embed a video, but that
+# requires the video file to be hosted in this repository, which seems
+# like a waste of storage space when we can just point people to youtube.
+#
+# If the 'mkdocs-video' plugin is used, then you need to 'pip install mkdocs-video'
+#
+#plugins:
+#  - mkdocs-video
+
+strict: true
+markdown_extensions:
+  - toc:
+      permalink: true

@@ -36,6 +36,11 @@
   display: none;
 }
 
+img.circle {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 /* Disable table of contents */
 .md-sidebar--secondary {
   display: none !important;

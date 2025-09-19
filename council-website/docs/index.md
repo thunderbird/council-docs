@@ -1,8 +1,5 @@
-<img src="img/TB-Council-opt.svg" width="300">
-
 # Thunderbird Council
 
-## <span class="fa-solid fa-circle-info"></span> Description
 The Mozilla Thunderbird Council is the elected governing body for the Thunderbird Project. The Council operates much like a board of directors for a company but within the unique context of an open-source project. Just as a board of directors is responsible for overseeing the company's strategic direction, making major decisions, and ensuring the organization's financial health, the Thunderbird Council performs a similar role for the Thunderbird Project. This complements MZLA’s company board by ensuring that MZLA stays true to its open source values and the Mozilla mission.
 
 The Council ensures that Thunderbird remains true to its core values of privacy, freedom, and user empowerment. Established in 2014, the Council acts as the voice of the community, guiding the project's strategic direction and fostering a collaborative environment for all contributors. The Council is composed of seven members and is elected by the Thunderbird community.

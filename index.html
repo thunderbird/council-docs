@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="auto">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="The Mozilla Thunderbird Council is the elected governing body for the Thunderbird Project.">
+        <meta name="author" content="Teal Dulcet">
+        <link rel="canonical" href="https://council.thunderbird.net/">
+        <link rel="shortcut icon" href="img/favicon.ico">
+        <title>Thunderbird Council</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/fontawesome.min.css" rel="stylesheet">
+        <link href="css/brands.min.css" rel="stylesheet">
+        <link href="css/solid.min.css" rel="stylesheet">
+        <link href="css/v4-font-face.min.css" rel="stylesheet">
+        <link href="css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" disabled>
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body class="homepage">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href=".">Thunderbird Council</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="." class="nav-link active" aria-current="page">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="election/" class="nav-link">Election</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" class="nav-link disabled">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="election/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://github.com/thunderbird/council-docs/blob/main/council-website/docs/index.md" class="nav-link"><i class="fa-brands fa-github"></i> Edit on GitHub</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                              <button id="theme-menu" aria-expanded="false" data-bs-toggle="dropdown" data-bs-display="static" aria-label="Toggle theme" class="nav-link dropdown-toggle">
+                                <i class="fa-solid fa-circle-half-stroke fa-fw"></i>
+                                <span class="d-lg-none ms-2">Toggle theme</span>
+                              </button>
+                              <ul class="dropdown-menu dropdown-menu-end">
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+                                    <i class="fa-solid fa-sun fa-fw"></i>
+                                    <span class="ms-2">Light</span>
+                                    <i class="fa-solid fa-check ms-auto d-none"></i>
+                                  </button>
+                                </li>
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+                                    <i class="fa-solid fa-moon fa-fw"></i>
+                                    <span class="ms-2">Dark</span>
+                                    <i class="fa-solid fa-check ms-auto d-none"></i>
+                                  </button>
+                                </li>
+                                <li>
+                                  <button class="dropdown-item d-flex align-items-center" data-bs-theme-value="auto" aria-pressed="true">
+                                    <i class="fa-solid fa-circle-half-stroke fa-fw"></i>
+                                    <span class="ms-2">Auto</span>
+                                    <i class="fa-solid fa-check ms-auto"></i>
+                                  </button>
+                                </li>
+                              </ul>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <script src="js/darkmode.js"></script>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#thunderbird-council" class="nav-link">Thunderbird Council</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#description" class="nav-link">Description</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#relationship-to-mozilla-and-mzla" class="nav-link">Relationship to Mozilla and MZLA</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#join-the-election-roll" class="nav-link">Join the Election Roll</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#get-involved" class="nav-link">Get Involved</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#thunderbird-goals" class="nav-link">Thunderbird Goals</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#documents" class="nav-link">Documents</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#contact-us" class="nav-link">Contact Us</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#previous-councils" class="nav-link">Previous Councils</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<p><img src="img/TB-Council-opt.svg" width="300"></p>
+<h1 id="thunderbird-council">Thunderbird Council<a class="headerlink" href="#thunderbird-council" title="Permanent link">&para;</a></h1>
+<h2 id="description"><span class="fa-solid fa-circle-info"></span> Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>The Mozilla Thunderbird Council is the elected governing body for the Thunderbird Project. The Council operates much like a board of directors for a company but within the unique context of an open-source project. Just as a board of directors is responsible for overseeing the company's strategic direction, making major decisions, and ensuring the organization's financial health, the Thunderbird Council performs a similar role for the Thunderbird Project. This complements MZLA’s company board by ensuring that MZLA stays true to its open source values and the Mozilla mission.</p>
+<p>The Council ensures that Thunderbird remains true to its core values of privacy, freedom, and user empowerment. Established in 2014, the Council acts as the voice of the community, guiding the project's strategic direction and fostering a collaborative environment for all contributors. The Council is composed of seven members and is elected by the Thunderbird community.</p>
+<p>The Council typically meets one hour every two weeks. We aim to have at least one in-person meeting per year, which can be attached to a MZLA/Mozilla company event like MozWeek or a meetup around an open source tech conference like <a href="https://en.wikipedia.org/wiki/FOSDEM">FOSDEM</a>.</p>
+<h2 id="relationship-to-mozilla-and-mzla"><span class="fa-solid fa-scale-balanced"></span> Relationship to Mozilla and MZLA<a class="headerlink" href="#relationship-to-mozilla-and-mzla" title="Permanent link">&para;</a></h2>
+<p>The Thunderbird project is a part of the Mozilla ecosystem. It is jointly stewarded by the Thunderbird Council and MZLA Technologies.</p>
+<p>Both MZLA Technologies Corporation and Mozilla Corporation are subsidiaries of the Mozilla Foundation. The Mozilla Corporation takes care of Firefox and related products, and MZLA takes care of Thunderbird and related projects. MZLA was created following discussions between former councils and the Mozilla Foundation, in order to provide the necessary structure for Thunderbird to operate professionally.</p>
+<p>The Council works closely with MZLA to set and adjust the long term strategic direction. Per our <a href="https://github.com/thunderbird/council-docs/blob/main/TERM_SHEET.md">Term Sheet</a>, the Thunderbird Council is responsible for:</p>
+<ul>
+<li>Oversight of the Thunderbird Project</li>
+<li>Oversight of funds and donations</li>
+<li>Developing overall yearly goals</li>
+<li>Approving the yearly project budget</li>
+<li>Collaborate with MZLA on developing the yearly product roadmap</li>
+<li>Providing advice on and approving the yearly staff goals</li>
+</ul>
+<p>For more information about the Council, see this <a href="https://blog.thunderbird.net/2024/09/video-learn-about-the-thunderbird-council/">video with Council members Danny and Patrick</a>:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BrovU3MsZzQ?si=5_qEuMdCEMFVX_MW" title="YouTube video player" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2 id="join-the-election-roll"><span class="fa-solid fa-check-to-slot"></span> Join the Election Roll<a class="headerlink" href="#join-the-election-roll" title="Permanent link">&para;</a></h2>
+<p>Interested in making a difference in the Thunderbird community? Anyone who has contributed 20 hours to Thunderbird in the past two years is invited to join the Election Roll, which allows them to vote and stand for election. Starting in 2025, the election occurs every two years. Contributors must renew their membership each year in the month of January. Please subscribe to the <a href="https://thunderbird.topicbox.com/groups/planning">Thunderbird Planning mailing list</a> for the registration announcement.</p>
+<p>See the <a href="election/">Election page</a> for more information.</p>
+<h2 id="get-involved"><span class="fa-solid fa-hand"></span> Get Involved<a class="headerlink" href="#get-involved" title="Permanent link">&para;</a></h2>
+<p>Contribute to Thunderbird: <a href="https://www.thunderbird.net/participate/">Participate - Thunderbird</a> Also see: <a href="https://codetribute.mozilla.org/projects/thunderbird">Codetribute</a></p>
+<p>Discussions and community updates are on the Thunderbird Planning mailing list: <a href="https://thunderbird.topicbox.com/groups/planning">Thunderbird Planning | Topicbox</a></p>
+<p>Important community announcements, including about the election, are on the Thunderbird Announcements mailing list: <a href="https://thunderbird.topicbox.com/groups/announcements">TB Announcements | Topicbox</a></p>
+<h2 id="thunderbird-goals"><span class="fa-solid fa-clipboard-list"></span> Thunderbird Goals<a class="headerlink" href="#thunderbird-goals" title="Permanent link">&para;</a></h2>
+<p>In 2024, the Council created a list our highest priority goals, where there was unanimous agreement from participating members, in order to help guide our decisions and work with MZLA on developing the roadmaps:</p>
+<ol>
+<li>Declare that a goal of the Thunderbird project is to increase the amount of digitally signed and end-to-end encrypted email exchanged by Thunderbird users on the public Internet</li>
+<li>Continue to invest in open standards</li>
+<li>Make end-to-end encryption a cornerstone of all our product and service offerings</li>
+<li>Increase stability and correctness of the Thunderbird</li>
+<li>Start a bug bounty program</li>
+<li>Invest in improvements for chat to become a modern instant messaging application</li>
+<li>Investigate newer forms of communication</li>
+</ol>
+<p>See our <a href="https://thunderbird.topicbox.com/groups/planning/Td85d2de142aee525/thunderbird-council-community-update-2024-h2">community update</a> for the full list of goals and much more details. During the 2025-2026 term, the Council is planning to use our oversight authority to ensure that MZLA completes all of them in the next few years as intended.</p>
+<h2 id="documents"><span class="fa-solid fa-file"></span> Documents<a class="headerlink" href="#documents" title="Permanent link">&para;</a></h2>
+<p>See our <span class="fa-brands fa-github"></span> <a href="https://github.com/thunderbird/council-docs">GitHub repository</a>.</p>
+<h2 id="contact-us"><span class="fa-solid fa-envelope"></span> Contact Us<a class="headerlink" href="#contact-us" title="Permanent link">&para;</a></h2>
+<p>To contact the entire Council, email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#111;&#117;&#110;&#99;&#105;&#108;&#64;&#116;&#104;&#117;&#110;&#100;&#101;&#114;&#98;&#105;&#114;&#100;&#46;&#110;&#101;&#116;">&#99;&#111;&#117;&#110;&#99;&#105;&#108;&#64;&#116;&#104;&#117;&#110;&#100;&#101;&#114;&#98;&#105;&#114;&#100;&#46;&#110;&#101;&#116;</a></p>
+<p><span class="fa-solid fa-lock"></span> If you need to contact us privately, please encrypt your message with the <span class="fa-solid fa-certificate"></span> S/MIME certificate or <span class="fa-solid fa-key"></span> OpenPGP key listed for each Council member respectively below.</p>
+<p>Also see the <a href="https://source-docs.thunderbird.net/en/latest/mots/">Thunderbird modules</a>.</p>
+<h3 id="chair"><span class="fa-solid fa-gavel"></span> Chair<a class="headerlink" href="#chair" title="Permanent link">&para;</a></h3>
+<ul>
+<li><img src="img/philipp_kewisch-high-res.png" width="150"><br>
+<strong>Philipp Kewisch</strong> (Fallen)<br />
+Founding Council member, MZLA employee, Thunderbird Mobile Manager<br />
+<span class="fa-solid fa-at"></span> Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#107;&#101;&#119;&#105;&#115;&#99;&#104;&#64;&#116;&#104;&#117;&#110;&#100;&#101;&#114;&#98;&#105;&#114;&#100;&#46;&#110;&#101;&#116;">&#107;&#101;&#119;&#105;&#115;&#99;&#104;&#64;&#116;&#104;&#117;&#110;&#100;&#101;&#114;&#98;&#105;&#114;&#100;&#46;&#110;&#101;&#116;</a> (<span class="fa-solid fa-key"></span> <a href="https://keys.openpgp.org/search?q=kewisch@thunderbird.net">OpenPGP key</a>)<br />
+<span class="fa-solid fa-m"></span> Matrix: <a href="https://matrix.to/#/@kewisch:mozilla.org">@kewisch:mozilla.org</a></li>
+</ul>
+<h3 id="secretary"><span class="fa-solid fa-pen"></span> Secretary<a class="headerlink" href="#secretary" title="Permanent link">&para;</a></h3>
+<ul>
+<li><img src="img/patrick_cloke-high-res.png" width="150"><br>
+<strong>Patrick Cloke</strong> (clokep)<br />
+Thunderbird Instant Messaging Module Owner<br />
+<span class="fa-solid fa-at"></span> Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#108;&#111;&#107;&#101;&#112;&#64;&#116;&#104;&#117;&#110;&#100;&#101;&#114;&#98;&#105;&#114;&#100;&#46;&#110;&#101;&#116;">&#99;&#108;&#111;&#107;&#101;&#112;&#64;&#116;&#104;&#117;&#110;&#100;&#101;&#114;&#98;&#105;&#114;&#100;&#46;&#110;&#101;&#116;</a><br />
+<span class="fa-solid fa-m"></span> Matrix: <a href="https://matrix.to/#/@clokep:matrix.org">@clokep:matrix.org</a><br />
+<span class="fa-brands fa-mastodon"></span> Mastodon: <a href="https://mastodon.social/@clokep">https://mastodon.social/@clokep</a></li>
+</ul>
+<h3 id="members"><span class="fa-solid fa-people-group"></span> Members<a class="headerlink" href="#members" title="Permanent link">&para;</a></h3>
+<ul>
+<li>
+<p><img src="img/magnus_melin-high-res.png" width="150"><br>
+<strong>Magnus Melin</strong> (mkmelin)<br />
+Founding Council member, MZLA employee, Thunderbird Desktop Developer<br />
+<span class="fa-solid fa-at"></span> Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#107;&#109;&#101;&#108;&#105;&#110;&#64;&#116;&#104;&#117;&#110;&#100;&#101;&#114;&#98;&#105;&#114;&#100;&#46;&#110;&#101;&#116;">&#109;&#107;&#109;&#101;&#108;&#105;&#110;&#64;&#116;&#104;&#117;&#110;&#100;&#101;&#114;&#98;&#105;&#114;&#100;&#46;&#110;&#101;&#116;</a> (<span class="fa-solid fa-key"></span> <a href="https://keys.openpgp.org/search?q=mkmelin@thunderbird.net">OpenPGP key</a>)<br />
+<span class="fa-solid fa-m"></span> Matrix: <a href="https://matrix.to/#/@mkmelin:mozilla.org">@mkmelin:mozilla.org</a></p>
+</li>
+<li>
+<p><img src="img/michele_zelco-high-res.png" width="150"><br>
+<strong>Michele Zelco</strong> (micz)<br />
+<span class="fa-solid fa-at"></span> Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#122;&#101;&#108;&#99;&#111;&#64;&#116;&#104;&#117;&#110;&#100;&#101;&#114;&#98;&#105;&#114;&#100;&#46;&#110;&#101;&#116;">&#109;&#122;&#101;&#108;&#99;&#111;&#64;&#116;&#104;&#117;&#110;&#100;&#101;&#114;&#98;&#105;&#114;&#100;&#46;&#110;&#101;&#116;</a><br />
+<span class="fa-solid fa-m"></span> Matrix: <a href="https://matrix.to/#/@micz:mozilla.org">@micz:mozilla.org</a><br />
+<span class="fa-brands fa-linkedin"></span> Linkedin: <a href="https://www.linkedin.com/in/mzelco/">https://www.linkedin.com/in/mzelco/</a></p>
+</li>
+<li>
+<p><img src="img/tim_macks_van_den_broek-high-res.png" width="150"><br>
+<strong>Tim Maks van den Broek</strong> (mad_maks)<br />
+Localization and SUMO Contributor<br />
+<span class="fa-solid fa-at"></span> Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#116;&#98;&#114;&#111;&#101;&#107;&#64;&#116;&#104;&#117;&#110;&#100;&#101;&#114;&#98;&#105;&#114;&#100;&#46;&#110;&#101;&#116;">&#116;&#98;&#114;&#111;&#101;&#107;&#64;&#116;&#104;&#117;&#110;&#100;&#101;&#114;&#98;&#105;&#114;&#100;&#46;&#110;&#101;&#116;</a><br />
+<span class="fa-solid fa-m"></span> Matrix: <a href="https://matrix.to/#/@mad_maks:mozilla.org">@mad_maks:mozilla.org</a></p>
+</li>
+<li>
+<p><img src="img/Teal%20Dulcet's%20Logo.svg" width="150"><br>
+<strong>Teal Dulcet</strong> (tdulcet)<br />
+Computer Scientist and Open Source Software Engineer, Thunderbird Add-on Developer<br />
+<span class="fa-solid fa-at"></span> Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#116;&#101;&#97;&#108;&#64;&#116;&#104;&#117;&#110;&#100;&#101;&#114;&#98;&#105;&#114;&#100;&#46;&#110;&#101;&#116;">&#116;&#101;&#97;&#108;&#64;&#116;&#104;&#117;&#110;&#100;&#101;&#114;&#98;&#105;&#114;&#100;&#46;&#110;&#101;&#116;</a> (<span class="fa-solid fa-certificate"></span> <a href="https://kuix.de/smime-keyserver/get.php?email=teal@thunderbird.net">S/MIME certificate</a>, <span class="fa-solid fa-key"></span> <a href="https://keys.openpgp.org/search?q=teal@thunderbird.net">OpenPGP key</a>)<br />
+<span class="fa-solid fa-m"></span> Matrix: <a href="https://matrix.to/#/@tdulcet:matrix.org">@tdulcet:matrix.org</a><br />
+<span class="fa-solid fa-comments"></span> XMPP: tdulcet@jabber.org<br />
+<span class="fa-solid fa-globe"></span> Website: <a href="https://tealdulcet.com/">tealdulcet.com</a></p>
+</li>
+</ul>
+<h2 id="previous-councils"><span class="fa-solid fa-scroll"></span> Previous Councils<a class="headerlink" href="#previous-councils" title="Permanent link">&para;</a></h2>
+<p>See the <a href="https://github.com/thunderbird/council-docs/blob/main/MEMBERS.md">Members document</a> on our GitHub repository. Also see the <a href="https://github.com/thunderbird/council-docs/blob/main/MOTIONS.md">Motion History</a>.</p>
+<p>Source 2014 - 2022: The <a href="https://wiki.mozilla.org/Thunderbird:Home#Governance">Thunderbird Wiki</a>.</p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = ".",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="js/base.js"></script>
+        <script src="search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
+
+<!--
+MkDocs version : 1.6.1
+Build Date UTC : 2025-09-19 10:45:51.522491+00:00
+-->

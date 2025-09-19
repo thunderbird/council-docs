@@ -124,6 +124,8 @@ Each councilor is elected for a two year term during the council election.
 
 ### Roles
 
+Council roles are elected by the Council. Each role has a 1-year term.
+
 #### Chairperson
 
 Organize the work of the Thunderbird Council and encourage members to do the same

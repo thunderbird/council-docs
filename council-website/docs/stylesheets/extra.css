@@ -45,3 +45,23 @@ img.circle {
 .md-sidebar--secondary {
   display: none !important;
 }
+
+/* Members list special styles */
+.members-list {
+  column-count: 2;
+}
+
+.members-list-avatar {
+  height: 150px;
+  text-align: center;
+}
+.members-list-avatar:first-child > p {
+  margin-top: 0;
+}
+
+
+@media screen and (max-width:59.984375em) {
+  .members-list {
+    column-count: 1
+  }
+}

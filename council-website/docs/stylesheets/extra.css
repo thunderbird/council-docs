@@ -35,3 +35,8 @@
 .md-footer-meta {
   display: none;
 }
+
+/* Disable table of contents */
+.md-sidebar--secondary {
+  display: none !important;
+}

@@ -1,10 +1,12 @@
 site_name: Thunderbird Council
+site_url: https://council.thunderbird.net/
 repo_url: https://github.com/thunderbird/council-docs
 edit_uri: blob/main/council-website/docs/
 site_description: The Mozilla Thunderbird Council is the elected governing body for the Thunderbird Project.
 site_author: Teal Dulcet
 nav:
   - Home: index.md
+  - Election: election.md
 
 # Mkdocs is built with the mkdocs and readthedocs themes. Other themes
 # are available. See https://www.mkdocs.org/user-guide/choosing-your-theme/

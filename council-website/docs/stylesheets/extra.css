@@ -1,0 +1,37 @@
+:root  > * {
+  --md-primary-fg-color: #1373D9;
+  --md-primary-fg-color--light: #F0F8FF;
+  --md-primary-fg-color--dark: #19518F;
+
+  --md-accent-fg-color: #175FB6;
+}
+.md-header {
+  background-color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  box-shadow: none;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.md-header__topic:first-child {
+  font-weight: normal;
+}
+
+.md-search__input + .md-search__icon {
+  color: #6a6e77;
+}
+
+.md-search__input::placeholder {
+  color: #6a6e77;
+  font-size: 0.8em;
+}
+
+.md-search__form {
+  background-color: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  border: 1px solid #e5e7eb;
+  border-radius: 0.375rem;
+}
+
+.md-footer-meta {
+  display: none;
+}

@@ -11,7 +11,7 @@ Join the Thunderbird Council – Help Shape the Future of Communication and More
 ## Why join the Thunderbird Council?
 * Be Part of a Global Impact: Thunderbird is more than a communication client; it is a statement about the power of open-source and community-driven software.
 * Contribute to Success: Your ideas and efforts can directly contribute to the ongoing development and success of Thunderbird.
-* Diverse Team Collaboration: Work with a dynamic team of 7 members from varied backgrounds – a vibrant tapestry of diverse perspectives and cultures
+* Diverse Team Collaboration: Work with a team of 7 members from varied backgrounds from across the world.
 
 ## We need You if you are
 * 💻 Tech-Savvy and Passionate about Thunderbird: You are excited about open-source and support Thunderbird, whether you are a coder, a strategist, or a supporter.

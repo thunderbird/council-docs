@@ -4,9 +4,14 @@ site_description: The Mozilla Thunderbird Council is the elected governing body 
 site_author: The Thunderbird Council
 nav:
   - Home: index.md
-  - "Working Groups": working_groups.md
-  - "Motions": motions.md
+  - Members: members.md
   - Election: election.md
+  - Decision making:
+    - "Working Groups": decisions/working_groups.md
+    - Motions: decisions/motions.md
+  - Charter:
+    - Bylaws: charter/bylaws.md
+    - "Term sheet": charter/term_sheet.md
 
 # Mkdocs is built with the mkdocs and readthedocs themes. Other themes
 # are available. See https://www.mkdocs.org/user-guide/choosing-your-theme/
@@ -17,6 +22,8 @@ theme:
   logo: img/TB-Council-opt.svg
   font:
     text: Inter
+  features:
+    - navigation.sections
 
 # We can use the 'mkdocs-video' plugin to embed a video, but that
 # requires the video file to be hosted in this repository, which seems
@@ -29,8 +36,6 @@ theme:
 
 strict: true
 markdown_extensions:
-  - toc:
-      permalink: true
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji

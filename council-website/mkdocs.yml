@@ -4,8 +4,9 @@ site_description: The Mozilla Thunderbird Council is the elected governing body 
 site_author: The Thunderbird Council
 nav:
   - Home: index.md
-  - Members: members.md
+  - "Contact Us": contact.md
   - Election: election.md
+  - Members: members.md
   - Decision making:
     - "Working Groups": decisions/working_groups.md
     - Motions: decisions/motions.md

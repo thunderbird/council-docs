@@ -4,6 +4,7 @@
 **Term**: Ongoing since April 16, 2025
 
 **Council Members:**
+
 - Philipp Kewisch (Chair)
 - Patrick Cloke (Secretary)
 - Magnus Melin
@@ -16,6 +17,7 @@
 **Term**: February 02, 2024 to April 16, 2025
 
 **Council Members:**
+
 - Danny Colin (Chair)
 - Kai Engert (Secretary)
 - Bogomil Shopov (until August 12, 2024)
@@ -29,6 +31,7 @@
 **Term**: December 20, 2022 to February 24, 2024
 
 **Council Members:**
+
 - Berna Alp (Chair)
 - Patrick Cloke (Secretary)
 - Ben Bucksch
@@ -42,6 +45,7 @@
 **Term**: October 28, 2021 to December 20, 2022
 
 **Council Members:**
+
 - Berna Alp (Chair)
 - Andrei Hajdukewycz (Secretary)
 - Ben Bucksch
@@ -55,6 +59,7 @@
 **Term**: October 16, 2020 to October 28, 2021
 
 **Council Members:**
+
 - Philipp Kewisch (Chair)
 - Ryan Sipes (Treasurer)
 - Patrick Cloke (Secretary)
@@ -68,6 +73,7 @@
 **Term**: March 21, 2019 to October 16, 2020
 
 **Council Members:**
+
 - Philipp Kewisch (Chair)
 - Ryan Sipes (Treasurer)
 - Wayne Mery (Secretary)
@@ -81,6 +87,7 @@
 **Term**: March 31, 2018 to March 21, 2019
 
 **Council Members:**
+
 - Philipp Kewisch (Chair)
 - Ryan Sipes (Treasurer)
 - Wayne Mery (Secretary)
@@ -94,6 +101,7 @@
 **Term**: March 17, 2017 to March 31, 2018
 
 **Council Members:**
+
 - Philipp Kewisch (Chair)
 - R Kent James (Treasurer)
 - Ben Bucksch (until January 30, 2018)
@@ -107,6 +115,7 @@
 **Term**: March 01, 2016 to March 17, 2017
 
 **Council Members:**
+
 - Magnus Melin (Chair)
 - R Kent James (Treasurer)
 - Jörg Knobloch
@@ -120,6 +129,7 @@
 **Term**: 2014 to March 17, 2017
 
 **Council Members:**
+
 - R Kent James (Chair)
 - Florian Quèze
 - Joshua Cranmer

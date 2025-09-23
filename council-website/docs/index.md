@@ -48,9 +48,10 @@ In 2024, the Council created a list our highest priority goals, where there was 
 
 See our [community update](https://thunderbird.topicbox.com/groups/planning/Td85d2de142aee525/thunderbird-council-community-update-2024-h2) for the full list of goals and much more details. During the 2025-2026 term, the Council is planning to use our oversight authority to ensure that MZLA completes all of them in the next few years as intended.
 
-## :fontawesome-solid-envelope: Contact Us
-To contact the Council, email: <council@thunderbird.net>
+## :fontawesome-solid-file: Documents
+See our :fontawesome-brands-github: [GitHub repository](https://github.com/thunderbird/council-docs) for the full list of documents.
 
-:fontawesome-solid-lock: If you need to contact us privately, please encrypt your message with the <span class="fa-solid fa-certificate"></span> S/MIME certificate or <span class="fa-solid fa-key"></span> OpenPGP key listed for each Council member respectively below.
+## :fontawesome-solid-envelope: Contact Us
+See the [Contact Us page](contact.md) for more information.
 
 Also see the [Thunderbird modules](https://source-docs.thunderbird.net/en/latest/mots/).

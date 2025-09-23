@@ -48,20 +48,14 @@ img.circle {
 
 /* Members list special styles */
 .members-list {
-  column-count: 2;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 450px);
+  gap: 1rem;
+  max-width: calc(900px + 1rem);
 }
 
-.members-list-avatar {
+.members-list > .member img {
   height: 150px;
-  text-align: center;
-}
-.members-list-avatar:first-child > p {
-  margin-top: 0;
-}
-
-
-@media screen and (max-width:59.984375em) {
-  .members-list {
-    column-count: 1
-  }
+  display: block;
+  margin: 0 auto 10px;
 }

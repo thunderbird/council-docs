@@ -41,11 +41,6 @@ img.circle {
   object-fit: cover;
 }
 
-/* Disable table of contents */
-.md-sidebar--secondary {
-  display: none !important;
-}
-
 /* Members list special styles */
 .members-list {
   display: grid;

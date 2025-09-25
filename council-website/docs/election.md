@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Thunderbird Council Election
 
 Join the Thunderbird Council – Help Shape the Future of Communication and More!

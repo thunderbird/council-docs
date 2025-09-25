@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Thunderbird Council
 
 The Mozilla Thunderbird Council is the elected governing body for the Thunderbird Project. The Council operates much like a board of directors for a company but within the unique context of an open-source project. Just as a board of directors is responsible for overseeing the company's strategic direction, making major decisions, and ensuring the organization's financial health, the Thunderbird Council performs a similar role for the Thunderbird Project. This complements MZLA’s company board by ensuring that MZLA stays true to its open source values and the Mozilla mission.
@@ -52,6 +57,7 @@ See our [community update](https://thunderbird.topicbox.com/groups/planning/Td85
 See our :fontawesome-brands-github: [GitHub repository](https://github.com/thunderbird/council-docs) for the full list of documents.
 
 ## :fontawesome-solid-envelope: Contact Us
-See the [Contact Us page](contact.md) for more information.
+See the [members page](members.md) for details on how to contact the council or individual members.
 
-Also see the [Thunderbird modules](https://source-docs.thunderbird.net/en/latest/mots/).
+Also see the [Thunderbird module owners](https://source-docs.thunderbird.net/en/latest/mots/) to
+learn more about the technical project governance.

@@ -226,17 +226,17 @@ A motion is a written proposal submitted at any time by a Council member.
 
 Second to the motion: Another Council member seconds the motion, so that the motion may proceed to discussion. If a motion does not receive a second then the motion dies. (A second does not indicate the seconder favors the motion.)
 
-Discussion: The Council discusses the motion during which the motion may be amended, tabled for a future date, withdrawn, or have a vote called.
+Discussion: The Council discusses the motion during which the motion may be amended, tabled for a future date, withdrawn, or have a vote called. There must be a minimum period of 72 hours for discussion.
 
-Call for vote: The Chair shall call the vote. Any Council member may urge the Chair to call the vote. A procedural vote may be called by any Council member as to whether the motion should be voted on, a procedural vote passes if more than 50% of those making up the quorum vote in favor of the procedural vote.
+Call for vote: The Chair shall call the vote. A procedural vote may be called by any Council member as to whether the motion should be voted on, a procedural vote passes if more than 50% of those making up the quorum vote in favor of the procedural vote.
 
-The Chair declares vote in progress: The Chair shall ensure the motion is in writing in the Council minutes to ensure that the wording is finalized and understood by all attendees, and calls the vote.
+The Chair declares vote in progress: The Chair shall ensure the motion is in writing in the Council minutes to ensure that the wording is finalized and understood by all attendees, and calls the vote. The Chair shall declare how long the voting period will remain open with a minimum of 24 hours and a maximum of 7 days.
 
-Voting: The secretary shall ensure that each member has voted and members respond with a vote of YES, NO, or ABSTAIN. Council members may optionally attach an explanatory sentence to their vote.
+Voting: The secretary shall ensure that each member is notified that a vote has been called. Members must vote YES, NO, or ABSTAIN. The voting period ends when either all members have voted, or the set time limit is reached.
 
 Voting counted and concluded: A motion is accepted if more than 50% of those making up the quorum vote in favor of a motion.
 
-Completed votes and motions shall be recorded in the minutes and shared publicly after redacting confidential or sensitive information. The complete public list of Council motions shall be published before the next regularly scheduled meeting including the final motion, the date, how Council members voted and their optional explanatory sentence, and a link to further discussion.
+The secretary shall ensure that completed votes and motions are recorded in the minutes and shared publicly after redacting confidential or sensitive information. The complete public list of Council motions shall be published before the next regularly scheduled meeting including the final motion, the date, how Council members voted and their optional explanatory sentence, and a link to further discussion.
 
 ## Confidentiality
 
@@ -256,9 +256,10 @@ When making public statements about Thunderbird Council work, please consider wh
 
 ## Amendments to these bylaws
 
-Proposed change to the bylaws shall be distributed to all Councilors in writing at least fourteen (14) days before the meeting where the change is to be voted on.
+Modifying the bylaws follows the normal Decision-Making Process of the Council, with the following changes:
 
-Modifying the bylaws requires a supermajority of two thirds (2/3) of the active Thunderbird Councilors.
+-  Proposed change to the bylaws shall be distributed to all Councilors in writing at least fourteen (14) days before the call to vote.
+- Modifying the bylaws requires a supermajority of two thirds (2/3) of the active Thunderbird Councilors.
 
 ## Separability of Articles
 

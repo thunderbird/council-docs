@@ -6,6 +6,7 @@ Council motions are used for formal decision making in the Thunderbird Council. 
 **Term**: Ongoing since April 16, 2025
 
 **Council Members:**
+
 - Philipp Kewisch (Chair)
 - Patrick Cloke (Secretary)
 - Magnus Melin
@@ -14,6 +15,10 @@ Council motions are used for formal decision making in the Thunderbird Council. 
 - Tim Maks van den Broek
 
 <table><tr><th>Motion</th><th>Details</th><th>Votes</th><th>Statements</th>
+<tr><td valign="top"><p>The Council approves the Thunderbird Mobile Roadmap 2026, as shared with the council on 10/23/2025: https://docs.google.com/document/d/1VGt1rqrajG_2Mk4EMf9l9KVlfxh4muzHqpfb_-6h4Wk/edit?usp=sharing.</p></td><td valign="top">2025-11-24<br>Proposed: Teal<br><br>Seconded: Magnus</td><td valign="top">Yes: Magnus, Patrick, Philipp, Teal, Tim Maks<br><br>Abstain: Mic</td><td valign="top"></td></tr>
+<tr><td valign="top"><p>Schedule a three day in person Council meeting November 13-15, 2025 in Hamburg, Germany in place of MozWeek to do longer term planning.</p></td><td valign="top">2025-11-10<br>Proposed: Teal<br><br>Seconded: Tim Maks</td><td valign="top">Yes: Magnus, Patrick, Philipp, Teal, Tim Maks</td><td valign="top"></td></tr>
+<tr><td valign="top"><p>The Council approves conducting a survey in the Addons Dev Matrix channel and mailing list to gather input on what is considered relevant for the Extension API, so that the information can be used in the Roadmap CWG.
+The survey will be shared in the Council Matrix channel before being published, so that everyone can review it.</p></td><td valign="top">2025-10-17<br>Proposed: Mic<br><br>Seconded: Teal</td><td valign="top">Yes: Mic, Patrick, Teal, Tim Maks</td><td valign="top"></td></tr>
 <tr><td valign="top"><p>The Council requests MZLA to provide support for meeting facilitation, summarization, and supporting public communication of council activities. Participation can be re-evaluated by the council or MZLA at any time, such as when business matters take precedence.</p></td><td valign="top">2025-08-04<br>Proposed: Philipp<br><br>Seconded: Teal</td><td valign="top">Yes: Magnus, Mic, Patrick, Philipp, Teal, Tim Maks</td><td valign="top"></td></tr>
 <tr><td valign="top"><p>The Council approves the charter initiating the Roadmaps CWG with the intent of fulfilling our responsibilities in the Term Sheet.</p></td><td valign="top">2025-08-04<br>Proposed: Teal<br><br>Seconded: Magnus</td><td valign="top">Yes: Magnus, Mic, Patrick, Teal, Tim Maks</td><td valign="top"></td></tr>
 <tr><td valign="top"><p>The Council approves the charter initiating the Council Bylaws CWG with the purpose of updating the Bylaws to improve the Council’s internal processes with an aim for clarity and efficiency.</p></td><td valign="top">2025-06-23<br>Proposed: Patrick<br><br>Seconded: Tim Maks</td><td valign="top">Yes: Mic, Patrick, Philipp, Teal, Tim Maks</td><td valign="top"></td></tr>
@@ -27,6 +32,7 @@ Council motions are used for formal decision making in the Thunderbird Council. 
 **Term**: February 02, 2024 to April 16, 2025
 
 **Council Members:**
+
 - Danny Colin (Chair)
 - Kai Engert (Secretary)
 - Bogomil Shopov (until August 12, 2024)
@@ -136,6 +142,7 @@ previously stepped down.</p></td><td valign="top">Date unknown<br>Proposed: Patr
 **Term**: December 20, 2022 to February 24, 2024
 
 **Council Members:**
+
 - Berna Alp (Chair)
 - Patrick Cloke (Secretary)
 - Ben Bucksch
@@ -183,6 +190,7 @@ individuals may also get involved in writing or commenting on the proposed specs
 **Term**: October 28, 2021 to December 20, 2022
 
 **Council Members:**
+
 - Berna Alp (Chair)
 - Andrei Hajdukewycz (Secretary)
 - Ben Bucksch
@@ -241,6 +249,7 @@ with the board. The amount will stay within the existing budget.</p>
 **Term**: October 16, 2020 to October 28, 2021
 
 **Council Members:**
+
 - Philipp Kewisch (Chair)
 - Ryan Sipes (Treasurer)
 - Patrick Cloke (Secretary)
@@ -308,6 +317,7 @@ containing PII and confidential information in the regular minutes.</p></td><td 
 **Term**: March 21, 2019 to October 16, 2020
 
 **Council Members:**
+
 - Philipp Kewisch (Chair)
 - Ryan Sipes (Treasurer)
 - Wayne Mery (Secretary)
@@ -364,6 +374,7 @@ containing PII and confidential information in the regular minutes.</p></td><td 
 **Term**: March 31, 2018 to March 21, 2019
 
 **Council Members:**
+
 - Philipp Kewisch (Chair)
 - Ryan Sipes (Treasurer)
 - Wayne Mery (Secretary)
@@ -394,6 +405,7 @@ containing PII and confidential information in the regular minutes.</p></td><td 
 **Term**: March 17, 2017 to March 31, 2018
 
 **Council Members:**
+
 - Philipp Kewisch (Chair)
 - R Kent James (Treasurer)
 - Ben Bucksch (until January 30, 2018)
@@ -418,6 +430,7 @@ containing PII and confidential information in the regular minutes.</p></td><td 
 There were more motions in this period, however we were just beginning to define a formal voting process and did not track them all. Exact term start is not known.
 
 **Council Members:**
+
 - Magnus Melin (Chair)
 - R Kent James (Treasurer)
 - Jörg Knobloch
@@ -437,6 +450,7 @@ There were more motions in this period, however we were just beginning to define
 We did not have a formal voting process in this period. rkent was reconfirmed as chair in July 2015.
 
 **Council Members:**
+
 - R Kent James (Chair)
 - Florian Quèze
 - Joshua Cranmer

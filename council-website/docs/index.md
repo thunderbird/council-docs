@@ -5,9 +5,9 @@ hide:
 
 # Thunderbird Council
 
-The Mozilla Thunderbird Council is the elected governing body for the Thunderbird Project. The Council operates much like a board of directors for a company but within the unique context of an open-source project. Just as a board of directors is responsible for overseeing the company's strategic direction, making major decisions, and ensuring the organization's financial health, the Thunderbird Council performs a similar role for the Thunderbird Project. This complements MZLA’s company board by ensuring that MZLA stays true to its open source values and the Mozilla mission.
+The Thunderbird Council is the elected governing body for the Thunderbird Project. The Council functions in some ways like a board of directors since it helps shape product strategy, reviews major decisions, and has oversight of funds. The key difference is that this group is chosen by the community. This ensures that leadership grows from the people who use and contribute to the project. The Council works alongside the MZLA company board and helps keep the project aligned with open source values and the Mozilla mission.
 
-The Council ensures that Thunderbird remains true to its core values of privacy, freedom, and user empowerment. Established in 2014, the Council acts as the voice of the community, guiding the project's strategic direction and fostering a collaborative environment for all contributors. The Council is composed of seven members and is elected by the Thunderbird community.
+The Council ensures that Thunderbird remains true to its core values of privacy, freedom, and user empowerment. Established in 2014, it serves as the voice of the community and encourages a collaborative space for contributors. It is composed of seven members who are elected by the Thunderbird community.
 
 The Council typically meets one hour every two weeks. We aim to have at least one in-person meeting per year, which can be attached to a MZLA/Mozilla company event like MozWeek or a meetup around an open source tech conference like [FOSDEM](https://en.wikipedia.org/wiki/FOSDEM).
 
@@ -36,9 +36,7 @@ See the [Election page](election.md) for more information.
 ## :fontawesome-solid-hand: Get Involved
 Contribute to Thunderbird: [Participate - Thunderbird](https://www.thunderbird.net/participate/) Also see: [Codetribute](https://codetribute.mozilla.org/projects/thunderbird)
 
-Discussions and community updates are on the Thunderbird Planning mailing list: [Thunderbird Planning | Topicbox](https://thunderbird.topicbox.com/groups/planning)
-
-Important community announcements, including about the election, are on the Thunderbird Announcements mailing list: [TB Announcements | Topicbox](https://thunderbird.topicbox.com/groups/announcements)
+Discussions and community updates are on the Thunderbird Planning mailing list: [Thunderbird Planning](https://thunderbird.topicbox.com/groups/planning)
 
 ## :fontawesome-solid-clipboard-list: Thunderbird Goals
 In 2024, the Council created a list our highest priority goals, where there was unanimous agreement from participating members, in order to help guide our decisions and work with MZLA on developing the roadmaps:

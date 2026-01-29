@@ -14,7 +14,27 @@ creates unnecessary debate before the work begins.
 
 ## 2025-2026
 
-## Roadmaps Working Group
+### Active
+#### Council Bylaws Working Group - Conflict of Interest
+
+<table>
+
+<tr><td valign="top">Timeframe</td><td>January 12, 2026–April 01, 2026</td></tr>
+<tr><td valign="top">Participants</td><td>Patrick, Tim Maks</td></tr>
+<tr><td valign="top">Purpose</td><td><p>Clarify the Council’s bylaws to improve internal and external processes to be more
+efficient and transparent.</p></td></tr>
+<tr><td valign="top">Scope</td><td><p>Add a conflict of interest policy to our bylaws: define what a conflict of interest is for
+a Council member, how it is reported by individual Council members, and the process by
+which the conflict is dealt with in the Council. This includes how to transparently report
+on conflicts of interest to the community.</p></td></tr>
+<tr><td valign="top">Goals</td><td><p>One or more motions to update the bylaws.</p></td></tr>
+<tr><td valign="top">Risks</td><td><p>The areas of improvement for the bylaws are somewhat unrelated, there’s a risk of being
+unfocused. This will be mitigated by focusing on a single area of the bylaws at a time and
+re-approve the scope each time.</p></td></tr>
+</table>
+
+### Closed / Expired
+#### Roadmaps Working Group
 
 <table>
 
@@ -62,7 +82,7 @@ creates unnecessary debate before the work begins.
 </ul></td></tr>
 </table>
 
-## Council Webpage Working Group
+#### Council Webpage Working Group
 
 <table>
 
@@ -96,7 +116,7 @@ overview:</p>
 </ul></td></tr>
 </table>
 
-## Council New Term Sheet Working Group
+#### Council New Term Sheet Working Group
 
 <table>
 
@@ -120,7 +140,7 @@ strategic steering committee.</p></td></tr>
 </ul></td></tr>
 </table>
 
-## Council Bylaws Working Group
+#### Council Bylaws Working Group
 
 <table>
 

@@ -7,6 +7,10 @@ on:
     paths:
       - '.github/workflows/**'
       - 'council-website/**'
+      - 'BY_LAWS.md'
+      - 'TERM_SHEET.md'
+      - 'MOTIONS.md'
+      - 'WORKING_GROUPS.md'
 
 jobs:
   deploy:

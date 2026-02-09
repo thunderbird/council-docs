@@ -11,6 +11,7 @@ on:
       - 'TERM_SHEET.md'
       - 'MOTIONS.md'
       - 'WORKING_GROUPS.md'
+      - 'motion-attachments/**'
 
 jobs:
   deploy:

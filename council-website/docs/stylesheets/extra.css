@@ -54,3 +54,60 @@ img.circle {
   display: block;
   margin: 0 auto 10px;
 }
+
+
+/* Make detail elements on motions page blend in better */
+[dir="ltr"] .md-typeset summary {
+  padding-left: 10px;
+}
+[dir="rtl"] .md-typeset summary {
+  padding-right: 10px;
+}
+
+.md-typeset summary::before {
+  background: none;
+  mask-image: none;
+  -webkit-mask-image: none;
+  back
+}
+
+.md-typeset summary {
+  background: none;
+  font-weight: normal;
+}
+
+.md-typeset details {
+  border: 0;
+  background: none;
+}
+.md-typeset details:focus-within {
+  box-shadow: none;
+}
+
+.md-typeset details[open] {
+  border: 1px solid black;
+  min-width: 21em;
+}
+
+/* Save some space with the outcome column in the motions table */
+#council-motion-history ~ div > div > table > tbody > tr > td:first-child {
+  writing-mode: sideways-lr;
+  text-align: center;
+  padding: 0;
+  padding-block-start: 1em;
+  text-transform: uppercase;
+}
+
+#council-motion-history ~ div > div > table > tbody > tr.approved > td:first-child {
+  color: green;
+}
+#council-motion-history ~ div > div > table > tbody > tr.failed > td:first-child {
+  color: red;
+}
+
+#council-motion-history ~ div > div > table > tbody > tr > th:first-child {
+  max-width: 1em;
+  min-width: 0;
+  opacity: 0;
+  padding: 0;
+}

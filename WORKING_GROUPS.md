@@ -33,6 +33,38 @@ unfocused. This will be mitigated by focusing on a single area of the bylaws at 
 re-approve the scope each time.</p></td></tr>
 </table>
 
+#### Term Sheet Working Group - Proposals/Vetos/Accountability
+
+<table>
+
+<tr><td valign="top">Timeframe</td><td>February 10, 2026–May 31, 2026</td></tr>
+<tr><td valign="top">Participants</td><td>Mic, Philipp</td></tr>
+<tr><td valign="top">Purpose</td><td><p>The Council Term Sheet outlines the framework for interactions between the Council and
+MZLA. Given MZLA’s significant growth in recent years, there is a recognised need to
+update the Term Sheet to more accurately reflect the Council’s evolving role as a
+strategic steering committee. In this second step for the WG we are going to add more
+details to the draft, following the direction approved by the Council.</p></td></tr>
+<tr><td valign="top">Scope</td><td><ul>
+<li>Communicate current direction and results of prior conversations to the community.</li>
+<li>Refine the details and processes for the three key milestones:<ul>
+<li>Proposals</li>
+<li>Vetos</li>
+<li>Accountability</li>
+</ul>
+</li>
+<li>Define a formal process and mechanism by which the Council can request information
+  from MZLA, in an effort to make more informed proposals.</li>
+<li>Establish the formal mechanism for the Council to exercise its Proposal and Veto
+  rights during the annual Roadmap review cycle.</li>
+<li>Sharing the new Term Sheet draft details with MZLA and the Board to gather feedback.</li>
+</ul></td></tr>
+<tr><td valign="top">Goals</td><td><ul>
+<li>Produce a written draft of the new Term Sheet for review by the Community, Council
+  and MZLA Leadership, and MZLA Board.</li>
+<li>Stretch Goal: The new Term Sheet to be approved by the Council and the MZLA Board.</li>
+</ul></td></tr>
+</table>
+
 ### Closed / Expired
 #### Roadmaps Working Group
 

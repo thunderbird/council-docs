@@ -105,7 +105,7 @@ To avoid conflicting duties from multiple directorships, members of the board of
 
 ### Renewal
 
-Contributors must renew their membership each year during the month of January. Their membership renewal must contain:
+Contributors must renew their membership before each election during the month of January. Their membership renewal must contain:
 
 1. Name;
 2. Email;
@@ -143,7 +143,7 @@ Organize the work of the Thunderbird Council and encourage members to do the sam
 
 1. Run and record Thunderbird Council votes
 2. Prepare and announce meetings
-3. Ensure annual elections take place
+3. Ensure elections take place
 4. Acting-chairperson in their absence
 
 #### Councilors
@@ -236,7 +236,7 @@ Voting: The secretary shall ensure that each member is notified that a vote has 
 
 Voting counted and concluded: A motion is accepted if more than 50% of those making up the quorum vote in favor of a motion.
 
-The secretary shall ensure that completed votes and motions are recorded in the minutes and shared publicly after redacting confidential or sensitive information. The complete public list of Council motions shall be published before the next regularly scheduled meeting including the final motion, the date, how Council members voted and their optional explanatory sentence, and a link to further discussion.
+The secretary shall ensure that completed votes and motions are recorded in the minutes and shared publicly after redacting confidential or sensitive information. The complete public list of Council motions shall be published before the next regularly scheduled meeting including the final motion, the date, and how Council members voted.
 
 ## Confidentiality
 

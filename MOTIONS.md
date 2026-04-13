@@ -20,6 +20,83 @@ Council motions are used for formal decision making in the Thunderbird Council. 
 - Tim Maks van den Broek
 
 <table><tr><th>Outcome</th><th>Motion</th><th>Details</th><th>Votes</th><th>Statements</th>
+<tr class="failed"><td valign="top">🔴 Failed</td><td valign="top"><p>To support the Council’s product-oversight responsibilities and to provide a clear, practical process for quarterly
+roadmap reviews and mid-cycle roadmap changes, the Council adopts the following process for roadmap quarterly reviews
+and change-management:</p>
+<p>Quarterly roadmap reviews</p>
+<ul>
+<li>MZLA will provide the full Council with a high-level roadmap review once per quarter covering the approved Desktop,
+Mobile, and Services roadmaps.</li>
+<li>The Council and MZLA will aim to hold this review in one meeting per quarter. If necessary, the review may be
+split into two or more meetings.</li>
+<li>This quarterly review is intended to be a high-level review for the full Council, focused on progress against
+the approved roadmaps, major risks, notable deviations, important dependencies, and any potential material changes
+that may require further discussion.</li>
+<li>Any follow-up review meetings, detailed discussion, or further negotiation arising from the quarterly review will
+ordinarily be conducted between MZLA and the Roadmaps WG, unless the full Council requests otherwise.</li>
+</ul>
+<p>Change-management process</p>
+<ul>
+<li>MZLA may propose roadmap changes at any time by emailing the Council.</li>
+<li>The Council may propose roadmap changes at any time by emailing MZLA.<ul>
+<li>Changes will first be discussed within the Council, and often first within the Roadmaps WG.</li>
+</ul>
+</li>
+<li>For any major change, at least 21 days’ notice before the change is implemented.</li>
+<li>For purposes of this process, major changes include:</li>
+<li>adding an entire roadmap item;</li>
+<li>removing an entire roadmap item; or</li>
+<li>materially changing an existing roadmap item, including its scope, intent, or expected outcome, for example
+    as the result of an exploration.</li>
+<li>Minor changes or routine tweaks to an existing roadmap item that do not materially change its scope, intent, or
+  expected outcome do not require separate Council approval.</li>
+<li>After MZLA notifies the Council of a proposed major change, the Council will determine whether the matter requires:</li>
+<li>no further discussion beyond the email notice (in which case it is automatically approved);</li>
+<li>further negotiation between MZLA and the Roadmaps WG; and/or</li>
+<li>a motion before the full Council.</li>
+</ul>
+<p>This motion ratifies the agreed working process for roadmap oversight and mid-cycle changes for the currently approved
+roadmaps and will remain in effect unless replaced or amended by a later Council motion.</p></span></td><td valign="top">2026-04-13<br>Proposed: Teal<br><br>Seconded: Magnus</td><td valign="top">Yes: Magnus, Teal<br><br>No: Mic, Patrick, Philipp, Tim Maks</td><td valign="top"></td></tr>
+<tr class="failed"><td valign="top">🔴 Failed</td><td valign="top"><p>With asynchronous discussion and voting, meeting minutes do not capture the context needed for the community (or
+other Councilors) to understand members’ positions.</p>
+<p>The Council amends the Bylaws as follows to replace “optional explanatory sentences” with a structured mechanism
+for optional dissenting opinions, to increase openness and transparency while maintaining respectful, objective
+communication.</p>
+<p>Bylaws changes:</p>
+<p>1) Decision-Making Process → Motion → Voting: add a new paragraph immediately after the existing “Voting:” paragraph.</p>
+<p>New paragraph to insert:</p>
+<ul>
+<li>
+<p>Dissenting opinion (optional): Any Councilor who votes NO or ABSTAIN may submit a dissenting opinion to accompany
+their vote in the public record. These opinions are short statements explaining the Councilor’s reasoning. They
+do not change the outcome of the vote and are for transparency only.</p>
+</li>
+<li>
+<p>Joint opinions: Two or more Councilors may submit a single shared dissenting opinion if they agree with its contents.</p>
+</li>
+<li>
+<p>Format &amp; limits: One dissenting opinion per Councilor per motion; maximum 100 words. It must be submitted no later
+than the publication deadline set by the Secretary.</p>
+</li>
+<li>
+<p>Content guidelines:
+    1) Focus on objective reasons (e.g. process, scope, trade-offs, risks, alignment with goals/Bylaws/Term Sheet).
+    2) Must explain the member’s own reasoning and must not characterize the motives, intentions, or beliefs of
+       other members.
+    3) Be respectful and comply with the Mozilla Community Participation Guidelines.
+    4) Must not include confidential or sensitive information.</p>
+</li>
+<li>Publication: The Secretary shall publish any dissenting opinions alongside the vote record, subject only to redaction
+of confidential or sensitive information consistent with the Bylaws’ publication/redaction rules. Dissenting opinions
+shall not be published individually as they are received, but only together with the completed public vote record.</li>
+<li>Limited review: If there is a good-faith concern that a dissenting opinion contains confidential information or
+a clear factual inaccuracy, the Secretary may request a revision before publication. This review is limited to confidentiality,
+factual accuracy, and compliance with these guidelines, and not disagreement with the member’s viewpoint.</li>
+</ul>
+<p>2) Decision-Making Process → Motion (final paragraph): replace the phrase “their optional explanatory sentence”
+with “any dissenting opinions submitted under this section” in the sentence requiring publication of the complete
+public list of Council motions.</p></span></td><td valign="top">2026-04-09<br>Proposed: Teal<br><br>Seconded: Magnus</td><td valign="top">Yes: Teal<br><br>No: Magnus, Mic, Patrick, Philipp, Tim Maks</td><td valign="top"></td></tr>
+<tr class="approved"><td valign="top">🟢 Approved</td><td valign="top"><p>We will put out a call on the mailing list for a candidate to fill the seventh seat on the council.</p></span></td><td valign="top">2026-03-25<br>Proposed: Tim Maks<br><br>Seconded: Philipp</td><td valign="top">Yes: Mic, Patrick, Philipp, Tim Maks<br><br>Abstain: Magnus, Teal</td><td valign="top"></td></tr>
 <tr class="approved"><td valign="top">🟢 Approved</td><td valign="top"><p>Update the voting procedure to clarify that statements from individual council members are not included in the public record. This is clarifying a clause missed in the previous motion to clarify the voting procedures:</p>
 <blockquote>
 <p>The secretary shall ensure that completed votes and motions are recorded in the minutes and shared publicly after redacting confidential or sensitive information. The complete public list of Council motions shall be published before the next regularly scheduled meeting including the final motion, the date, <ins>and</ins> how Council members voted <del>and their optional explanatory sentence, and a link to further discussion</del>.</p>

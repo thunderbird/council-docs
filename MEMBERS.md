@@ -7,6 +7,7 @@
 
 - Philipp Kewisch (Chair)
 - Patrick Cloke (Secretary)
+- Danny Colin (since June 24, 2026)
 - Magnus Melin
 - Michele Zelco
 - Teal Dulcet

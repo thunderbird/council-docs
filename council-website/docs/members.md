@@ -15,7 +15,7 @@ To contact the entire Council, email: <council@thunderbird.net>
 
 /// html | div.member
 <img class="circle" src="../img/philipp_kewisch-high-res.png" width="150">
-**Chair - Philipp Kewisch** (Fallen)  
+**Chair - Philipp Preißer-Kewisch** (Fallen)  
 Founding Council member,  
 Director Web Services at MZLA  
 :fontawesome-solid-at: Email: <kewisch@thunderbird.net>  

@@ -5,7 +5,7 @@
 
 **Council Members:**
 
-- Philipp Kewisch (Chair)
+- Philipp Preißer-Kewisch (Chair)
 - Patrick Cloke (Secretary)
 - Danny Colin (since June 24, 2026)
 - Magnus Melin
@@ -24,7 +24,7 @@
 - Bogomil Shopov (until August 12, 2024)
 - John Bieling
 - Patrick Cloke
-- Philipp Kewisch
+- Philipp Preißer-Kewisch
 - Teal Dulcet
 
 ## 2022-2024
@@ -39,7 +39,7 @@
 - Danny Colin
 - John Bieling
 - Micah Ilbery
-- Philipp Kewisch
+- Philipp Preißer-Kewisch
 
 ## 2021–2022
 
@@ -53,7 +53,7 @@
 - Dirk Steinmetz
 - Magnus Melin
 - Patrick Cloke
-- Philipp Kewisch
+- Philipp Preißer-Kewisch
 
 ## 2020–2021
 
@@ -61,7 +61,7 @@
 
 **Council Members:**
 
-- Philipp Kewisch (Chair)
+- Philipp Preißer-Kewisch (Chair)
 - Ryan Sipes (Treasurer)
 - Patrick Cloke (Secretary)
 - Berna Alp
@@ -75,7 +75,7 @@
 
 **Council Members:**
 
-- Philipp Kewisch (Chair)
+- Philipp Preißer-Kewisch (Chair)
 - Ryan Sipes (Treasurer)
 - Wayne Mery (Secretary)
 - Berna Alp
@@ -89,7 +89,7 @@
 
 **Council Members:**
 
-- Philipp Kewisch (Chair)
+- Philipp Preißer-Kewisch (Chair)
 - Ryan Sipes (Treasurer)
 - Wayne Mery (Secretary)
 - Jörg Knobloch
@@ -103,7 +103,7 @@
 
 **Council Members:**
 
-- Philipp Kewisch (Chair)
+- Philipp Preißer-Kewisch (Chair)
 - R Kent James (Treasurer)
 - Ben Bucksch (until January 30, 2018)
 - Jörg Knobloch
@@ -122,7 +122,7 @@
 - Jörg Knobloch
 - Matt Harris
 - Patrick Cloke
-- Philipp Kewisch
+- Philipp Preißer-Kewisch
 - Wayne Mery
 
 ## 2014–2016
@@ -136,6 +136,6 @@
 - Joshua Cranmer
 - Magnus Melin
 - Mike Conley
-- Philipp Kewisch
+- Philipp Preißer-Kewisch
 - Wayne Mery
 

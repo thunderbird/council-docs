@@ -12,7 +12,7 @@ Council motions are used for formal decision making in the Thunderbird Council. 
 
 **Council Members:**
 
-- Philipp Kewisch (Chair)
+- Philipp Preißer-Kewisch (Chair)
 - Patrick Cloke (Secretary)
 - Danny Colin (since June 24, 2026)
 - Magnus Melin
@@ -29,7 +29,7 @@ The full details of this motion <a href="./motion-attachments/2026-08-11-motion-
 <tr class="approved"><td valign="top">🟢 Approved</td><td valign="top"><p>In follow-up for the recent motion calling for a seventh seat on the council, we need to choose the seventh member. The only self nomination is from Danny Colin. With this motion the council accepts the self nomination and adds Danny Colin to the council until the next elections.</p></span></td><td valign="top">2026-06-24<br>Proposed: Tim Maks<br><br>Seconded: Philipp</td><td valign="top">Yes: Magnus, Mic, Patrick, Philipp, Tim Maks<br><br>Abstain: Teal</td><td valign="top"></td></tr>
 <tr class="approved"><td valign="top">🟢 Approved</td><td valign="top"><p>The Council approves <a href="./motion-attachments/2026-05-19-communications-wg-charter.md">the charter</a> initiating the Council Council Communication Plan CWG with the purpose of updating the Bylaws to improve the Council’s internal processes with an aim for clarity and efficiency.</p></span></td><td valign="top">2026-05-19<br>Proposed: Mic<br><br>Seconded: Tim Maks</td><td valign="top">Yes: Mic, Patrick, Teal, Tim Maks</td><td valign="top"></td></tr>
 <tr class="approved"><td valign="top">🟢 Approved</td><td valign="top"><p>The Council is voting on renewing the Secretary role for the 2026/2027 cycle. A YES vote will confirm the only candidate, Patrick Cloke. </p></span></td><td valign="top">2026-05-04<br>Proposed: Philipp<br><br>Seconded: Mic</td><td valign="top">Yes: Magnus, Mic, Philipp, Tim Maks<br><br>No: Teal<br><br>Abstain: Patrick</td><td valign="top"></td></tr>
-<tr class="approved"><td valign="top">🟢 Approved</td><td valign="top"><p>The Council is voting on renewing the Chair role for the 2026/2027 cycle. A YES vote will confirm the only candidate, Philipp Kewisch. </p></span></td><td valign="top">2026-05-04<br>Proposed: Philipp<br><br>Seconded: Mic</td><td valign="top">Yes: Magnus, Mic, Patrick, Tim Maks<br><br>No: Teal<br><br>Abstain: Philipp</td><td valign="top"></td></tr>
+<tr class="approved"><td valign="top">🟢 Approved</td><td valign="top"><p>The Council is voting on renewing the Chair role for the 2026/2027 cycle. A YES vote will confirm the only candidate, Philipp Preißer-Kewisch. </p></span></td><td valign="top">2026-05-04<br>Proposed: Philipp<br><br>Seconded: Mic</td><td valign="top">Yes: Magnus, Mic, Patrick, Tim Maks<br><br>No: Teal<br><br>Abstain: Philipp</td><td valign="top"></td></tr>
 <tr class="failed"><td valign="top">🔴 Failed</td><td valign="top"><p>To support the Council’s product-oversight responsibilities and to provide a clear, practical process for quarterly
 roadmap reviews and mid-cycle roadmap changes, the Council adopts the following process for roadmap quarterly reviews
 and change-management:</p>
@@ -168,7 +168,7 @@ The survey will be shared in the Council Matrix channel before being published, 
 - Bogomil Shopov (until August 12, 2024)
 - John Bieling
 - Patrick Cloke
-- Philipp Kewisch
+- Philipp Preißer-Kewisch
 - Teal Dulcet
 
 <table><tr><th>Outcome</th><th>Motion</th><th>Details</th><th>Votes</th><th>Statements</th>
@@ -197,7 +197,7 @@ automatically go to the emeritus status.</p>
 </li>
 <li>Build Config:<ul>
 <li>Add Daniel Darnell as peer</li>
-<li>Remove Philipp Kewisch as peer</li>
+<li>Remove Philipp Preißer-Kewisch as peer</li>
 </ul>
 </li>
 <li>Theme:<ul>
@@ -279,7 +279,7 @@ previously stepped down.</p></span></td><td valign="top">Date unknown<br>Propose
 - Danny Colin
 - John Bieling
 - Micah Ilbery
-- Philipp Kewisch
+- Philipp Preißer-Kewisch
 
 <table><tr><th>Outcome</th><th>Motion</th><th>Details</th><th>Votes</th>
 <tr class="approved"><td valign="top">🟢 Approved</td><td valign="top"><p>Approve the <a href="./motion-attachments/2023-12-12-council-bylaws.pdf">Thunderbird Council Bylaws</a>. See also <a href="./motion-attachments/2023-12-12-council-bylaws-voting.pdf">Bylaws Voting Record</a>.</p></span></td><td valign="top">2023-12-12<br>Proposed: Patrick<br><br>Seconded: Micah</td><td valign="top">Yes: Berna, Danny, John, Micah, Patrick, Philipp<br><br>Abstain: Ben</td>
@@ -327,7 +327,7 @@ individuals may also get involved in writing or commenting on the proposed specs
 - Dirk Steinmetz
 - Magnus Melin
 - Patrick Cloke
-- Philipp Kewisch
+- Philipp Preißer-Kewisch
 
 <table><tr><th>Outcome</th><th>Motion</th><th>Details</th><th>Votes</th>
 <tr class="approved"><td valign="top">🟢 Approved</td><td valign="top"><p>Allow new council members to see previous term’s Council meeting notes, unless there’s a specific, localized issue regarding a specific new Councilor. Such an issue must be proposed by 4 Councilors.</p></span></td><td valign="top">2022-12-05<br>Proposed: Ben<br><br>Seconded: Berna</td><td valign="top">Yes: Andrei, Ben, Berna, Dirk, Patrick</td>
@@ -380,7 +380,7 @@ with the board. The amount will stay within the existing budget.</p>
 
 **Council Members:**
 
-- Philipp Kewisch (Chair)
+- Philipp Preißer-Kewisch (Chair)
 - Ryan Sipes (Treasurer)
 - Patrick Cloke (Secretary)
 - Berna Alp
@@ -448,7 +448,7 @@ containing PII and confidential information in the regular minutes.</p></span></
 
 **Council Members:**
 
-- Philipp Kewisch (Chair)
+- Philipp Preißer-Kewisch (Chair)
 - Ryan Sipes (Treasurer)
 - Wayne Mery (Secretary)
 - Berna Alp
@@ -505,7 +505,7 @@ containing PII and confidential information in the regular minutes.</p></span></
 
 **Council Members:**
 
-- Philipp Kewisch (Chair)
+- Philipp Preißer-Kewisch (Chair)
 - Ryan Sipes (Treasurer)
 - Wayne Mery (Secretary)
 - Jörg Knobloch
@@ -536,7 +536,7 @@ containing PII and confidential information in the regular minutes.</p></span></
 
 **Council Members:**
 
-- Philipp Kewisch (Chair)
+- Philipp Preißer-Kewisch (Chair)
 - R Kent James (Treasurer)
 - Ben Bucksch (until January 30, 2018)
 - Jörg Knobloch
@@ -566,7 +566,7 @@ There were more motions in this period, however we were just beginning to define
 - Jörg Knobloch
 - Matt Harris
 - Patrick Cloke
-- Philipp Kewisch
+- Philipp Preißer-Kewisch
 - Wayne Mery
 
 <table><tr><th>Outcome</th><th>Motion</th><th>Details</th><th>Votes</th>
@@ -586,6 +586,6 @@ We did not have a formal voting process in this period. rkent was reconfirmed as
 - Joshua Cranmer
 - Magnus Melin
 - Mike Conley
-- Philipp Kewisch
+- Philipp Preißer-Kewisch
 - Wayne Mery
 

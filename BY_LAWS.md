@@ -196,6 +196,10 @@ A Council member may resign by presenting their resignation in writing to the Th
 
 An ordinary resignation may not be unreasonably withheld; acceptance shall normally be recorded within seven days. A Councilor who cannot participate for an extended period should notify the Secretary, who shall discuss reasonable accommodations and succession arrangements without treating temporary absence as an automatic vacancy.
 
+### Accountability and Community Recall
+
+A petition signed by at least 20% of the verified electorate may request an independent recall vote concerning a Councilor, stating specific and verifiable reasons. The election observer shall verify the petition confidentially, ensure fair notice and an opportunity for the Councilor to respond, and administer a secret Community ballot. Recall requires at least two-thirds of valid votes cast, with participation by at least 20% of the eligible electorate. A successful recall creates a vacancy; an unsuccessful petition may not be repeated on substantially the same grounds for six months absent material new evidence. Harassment, retaliation, and disclosure of protected information are prohibited. Any applicable CPG process is separate and remains available. No elected Councilor may be suspended or removed solely by an officer's unilateral decision.
+
 
 ### Individual Initiatives and Working Groups
 

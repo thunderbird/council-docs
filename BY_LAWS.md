@@ -14,16 +14,16 @@
 10. [Conflicts of Interest](#conflicts-of-interest)
 11. [Confidentiality](#confidentiality)
 12. [Code of Conduct](#code-of-conduct)
-13. [Amendments to these bylaws](#amendments-to-these-bylaws)
-14. [Separability of Articles](#separability-of-articles)
+13. [Internal Dispute Resolution](#internal-dispute-resolution)
+14. [Amendments to these bylaws](#amendments-to-these-bylaws)
+15. [Separability of Articles](#separability-of-articles)
 
 ## Definitions
 
 * **Bylaws**: The present rules governing the Thunderbird Council.
 * **Council**: The Thunderbird Council composed of elected members of the Thunderbird project
 * **Members**: the term Members signifies all people recognized as such by the present Bylaws.
-* **MZLA**: MZLA Technologies Corporation, renamed Thunderbird Technology Corporation in October 2026.
-* **TBTC**: Thunderbird Technology Corporation, formerly MZLA Technologies Corporation.
+* **TBTC**: Thunderbird Technology Corporation
 * **Thunderbird**: The Thunderbird project.
 * **CPG**: [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 * **Active Councilors**: Councilors occupying non-vacant Council seats; a temporary absence or recusal does not create a vacancy.
@@ -37,6 +37,8 @@
 ## Mandate
 
 The Thunderbird Council is the governing body for the Thunderbird project. The detailed duties and powers of the Thunderbird Council are described in the [Thunderbird Operational Rules Term Sheet](https://github.com/thunderbird/council-docs/blob/main/TERM_SHEET.md).
+
+The Council shall maintain a forward calendar to exercise its responsibilities under the Term Sheet, including annual project goals, roadmap approval, initial budget approval, quarterly product and financial oversight, and its role concerning staff leadership goals. The Council's internal procedures do not expand its corporate authority, alter TBTC's day-to-day management responsibilities, or override the Term Sheet's approval and dispute-resolution provisions. The Council shall document important unmet oversight obligations and next steps in its Community updates where not confidential.
 
 ## Election Procedure
 
@@ -116,7 +118,7 @@ Contributors are eligible to vote in Thunderbird Council elections if they fulfi
 
 Elector qualification is 20 hours of contribution within the previous two years. Qualifying activity includes code and add-on development, review, testing, localization, support, documentation, design, accessibility, community organizing and moderation, advocacy, research, outreach, and governance work. Contributions need not be made through Mozilla-hosted development platforms. The election manager shall publish proportionate evidence guidelines and an impartial review or appeal mechanism for difficult-to-document contributions. Contributors shall be evaluated under consistent criteria, without favoring paid employment or technical work.
 
-To avoid conflicting duties from multiple directorships, members of the board of directors of Mozilla Foundation, Mozilla Corporation, and MZLA Technologies Corporation may not serve on the Thunderbird Council.
+To avoid conflicting duties from multiple directorships, members of the board of directors of Mozilla Foundation, Mozilla Corporation, and Thunderbird Technology Corporation may not serve on the Thunderbird Council.
 
 ### Renewal
 
@@ -139,20 +141,20 @@ Each councilor is elected for a two year term during the council election.
 
 ### Roles
 
-Council roles are elected by the Council. Each role has a 1-year term.
+Council roles are elected by the Council. Each role has a 1-year term. The Chair and Secretary are facilitators accountable to the full Council; they do not hold a veto over Councilor initiatives, eligible agenda items, or duly adopted decisions. Officers may be replaced before their term ends by an ordinary motion following notice and an opportunity for response, with the affected officer abstaining or recusing as required under the conflicts policy. The Council shall maintain a written handover of outstanding motions, decisions, and responsibilities.
 
 #### Chairperson
 
 Organize the work of the Thunderbird Council and encourage members to do the same
 
-1. Working with MZLA Technologies to approve annual budgets
-2. Primary interface with MZLA Technologies
-3. Provide direction to the high level MZLA Technologies staff
+1. Working with TBTC to approve annual budgets
+2. Primary interface with TBTC
+3. Provide direction to the high level TBTC staff
 4. Primary spokesperson for the project
 5. Update the community about Thunderbird Council progress
 6. Ensure proper handover to the new Thunderbird Council, all unresolved issues/tasks from prior term are transferred to the new Thunderbird Council
-7. Represent the Thunderbird Council in MZLA Quarterly Board meetings
-8. Prepare the agenda based on the input of other Councilors and run the Thunderbird Council meetings
+7. Represent the Thunderbird Council in TBTC Quarterly Board meetings
+8. Prepare the agenda based on the input of other Councilors and run meetings impartially, without blocking motions or suppressing minority views; present agreed Council positions as such and distinguish personal views
 
 #### Secretary
 
@@ -169,16 +171,18 @@ Organize the work of the Thunderbird Council and encourage members to do the sam
 4. Improve the structure and operation of the Thunderbird Council
 5. Lead and participate in Thunderbird Council projects
 6. Spokesperson for the project
-7. Interface with MZLA Technologies
+7. Interface with TBTC, using reasonable coordination so that staff receive clear and manageable requests
 8. If chairperson and secretary are not present, a member may act as the chairperson for the duration of the meeting after a procedural vote.
+9. Independently research, consult, collect feedback, develop drafts, and propose initiatives on matters within the Council's mandate without prior Council approval, provided the Councilor makes no unauthorized commitment on behalf of the Council or TBTC.
+10. Obtain reasonably necessary information and equal access to Council proceedings, subject to legal confidentiality, privacy, conflict restrictions, and the Term Sheet. Individual Councilors may express personal views publicly while clearly distinguishing them from official Council decisions.
 
 ### Compensation
 
-Councilors will not be paid for their services. However, the Thunderbird Council may, at any time, resolve to reimburse the Councilors for the expenses incurred in the exercise of their functions.
+Councilors will not be paid for their services. However, the Thunderbird Council may, at any time, resolve to reimburse Councilors for expenses incurred in the exercise of their functions. The Council shall maintain an equitable, published reimbursement and advance-payment policy, subject to an approved budget and applicable TBTC rules, so that Councilors need not ordinarily personally finance required Council activities. This includes reasonable work-related equipment, communications, accessibility and travel costs, with comparable access for employee and non-employee Councilors and no double reimbursement.
 
 ### Indemnity
 
-Members of the Council are indemnified under the bylaws of MZLA Technologies Corporation in their capacities as agents of the corporation.
+Members of the Council are indemnified under the bylaws of Thunderbird Technology Corporation in their capacities as agents of the corporation.
 
 ### Vacancies
 
@@ -189,6 +193,13 @@ Vacancies are filled by appointment of 2/3rds vote of active Council members. An
 ### Resignation
 
 A Council member may resign by presenting their resignation in writing to the Thunderbird Council, which shall be effective upon acceptance by the Thunderbird Council.
+
+An ordinary resignation may not be unreasonably withheld; acceptance shall normally be recorded within seven days. A Councilor who cannot participate for an extended period should notify the Secretary, who shall discuss reasonable accommodations and succession arrangements without treating temporary absence as an automatic vacancy.
+
+
+### Individual Initiatives and Working Groups
+
+A Councilor may establish and participate in an informal exploratory group with interested Community members, without prior Council approval, to research an issue and prepare recommendations. Such a group has no authority to speak for the Council, receive confidential Council or TBTC information, direct staff, commit project resources, or approve decisions. Formal Council Working Groups exercising delegated responsibilities require a published charter approved by the Council defining scope, participants, reporting, duration or review date, and limits of authority. No working group replaces a decision reserved to the full Council or TBTC under the Term Sheet. Reasonable opportunities for Community participation should be provided where appropriate.
 
 ## Call for re-election
 
@@ -305,7 +316,7 @@ The Council shall conduct its activities openly by default. Agendas, motions, de
 
 Upon joining the Thunderbird Council, each Councilor, including elected TBTC staff, shall enter into the confidentiality arrangements necessary to access TBTC proprietary information. Nothing in these bylaws overrides an existing NDA, legal privilege, or applicable law. The Council shall work with TBTC to establish practical information-classification, redaction, and release procedures that permit greater transparency without requiring unlawful or unauthorized disclosure.
 
-As defined by the [Thunderbird Operational Rules Term Sheet](https://github.com/thundernest/council-docs/blob/main/TERM_SHEET.md), Council members shall have access to information related to the Thunderbird project, including to MZLA proprietary information, but will not have access to personal information of individual employees.
+As defined by the [Thunderbird Operational Rules Term Sheet](https://github.com/thunderbird/council-docs/blob/main/TERM_SHEET.md), Council members shall have access to information related to the Thunderbird project, including to TBTC proprietary information, but will not have access to personal information of individual employees.
 
 Council members must use official communication channels, such as their thunderbird.net email address, when performing Council activities. Thunderbird.net emails are only for use while a member is actively on the Council.
 
@@ -315,14 +326,19 @@ The Thunderbird Council welcomes discussion, constructive criticism, and contrib
 
 As a group, we are all responsible for the speed of progress and need to hold each other accountable in a respectful way.
 
-When making public statements about Thunderbird Council work, please consider what effect this will have on the public opinion, and what part you have contributed internally to resolve the situation.
+Councilors shall communicate respectfully and distinguish personal opinions from formal Council decisions. Good-faith public criticism of Council processes or decisions is permitted, subject to confidentiality obligations and the CPG; disagreement alone is not misconduct.
+
+## Internal Dispute Resolution
+
+Councilors should first seek to resolve procedural or governance disputes through documented discussion and, where appropriate, mediation. A Councilor may request reconsideration of a disputed procedural ruling by the full Council; the person whose conduct or interest is challenged shall not decide their own challenge. For significant unresolved procedural, conflict-of-interest, or election disputes, the Council shall obtain a neutral review and publish a redacted outcome. This internal process does not replace the Mozilla CPG procedures, applicable law, or the Council–TBTC dispute resolution mechanism in the Term Sheet.
 
 ## Amendments to these bylaws
 
 Modifying the bylaws follows the normal Decision-Making Process of the Council, with the following changes:
 
--  Proposed change to the bylaws shall be distributed to all Councilors in writing at least fourteen (14) days before the call to vote.
-- Modifying the bylaws requires a supermajority of two thirds (2/3) of the active Thunderbird Councilors.
+- Proposed changes to the bylaws shall be distributed to all Councilors in writing at least fourteen (14) days before the call to vote. Material amendments to the text during that period shall be circulated with sufficient time to satisfy the same notice requirement before voting.
+- Modifying the bylaws requires affirmative votes from at least two thirds (2/3) of all active Thunderbird Councilors, rounded up; abstentions, recusals, and absences do not lower this threshold.
+- At least once each two-year Council term, the Council shall review the bylaws and governance procedures, solicit Community feedback, and publish findings and proposed improvements, even if it adopts no changes. Councilors may propose amendments at any time under this section.
 
 ## Separability of Articles
 

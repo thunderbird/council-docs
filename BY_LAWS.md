@@ -21,9 +21,17 @@
 * **Bylaws**: The present rules governing the Thunderbird Council.
 * **Council**: The Thunderbird Council composed of elected members of the Thunderbird project
 * **Members**: the term Members signifies all people recognized as such by the present Bylaws.
-* **MZLA**: MZLA Technologies Corporation
+* **MZLA**: MZLA Technologies Corporation, renamed Thunderbird Technology Corporation in October 2026.
+* **TBTC**: Thunderbird Technology Corporation, formerly MZLA Technologies Corporation.
 * **Thunderbird**: The Thunderbird project.
 * **CPG**: [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+* **Active Councilors**: Councilors occupying non-vacant Council seats; a temporary absence or recusal does not create a vacancy.
+* **Community member**: A person who uses, contributes to, or participates in the Thunderbird project in good faith; only qualified electors may vote in Council elections.
+* **Electors**: Eligible contributors admitted to the verified election roll.
+* **ABSTAIN**: An express choice not to vote for or against a motion. An abstention counts toward participation quorum but is excluded from the ordinary-majority denominator.
+* **RECUSED**: A Councilor excluded from an affected decision under the conflicts of interest procedure; unlike an abstention, a recusal is not a vote.
+* **Ordinary majority**: More YES than NO votes among Councilors voting YES or NO on a motion, provided the applicable quorum is satisfied. ABSTAIN is not a NO vote and does not count in the majority denominator.
+* **Supermajority of active Councilors**: The stated fraction of all occupied Council seats, rounded up; abstentions, recusals, and absences do not lower that threshold.
 
 ## Mandate
 
@@ -187,16 +195,23 @@ If the Council wishes to dissolve, the Council must adopt a motion recommending 
 
 ### Quorum
 
-Quorum shall be 51% of the Council members.
+Quorum for a meeting is more than half of the active Councilors, rounded up. For a vote on a particular matter, participation quorum is more than half of the Councilors eligible to vote on that matter, rounded up; formally recused Councilors are excluded from this participation-quorum denominator. An asynchronous vote meets quorum only when at least that many eligible Councilors cast YES, NO, or ABSTAIN; a synchronous vote additionally requires a meeting quorum present. If fewer than three Councilors remain eligible, the Council shall obtain independent advice and postpone the substantive decision until a lawful, fair process is available. Recusal does not reduce any threshold expressly based on all active Councilors.
+
+For synchronous votes, the meeting quorum must be present when the vote is taken. A meeting quorum does not substitute for the separate participation requirement for an asynchronous vote. A Councilor attending a hybrid meeting live may participate in a synchronous vote.
 
 ### Frequency
 
 The Council shall hold regularly scheduled meetings at least once a month.
 
+Regular meetings should prioritize decisions and substantive discussion. Routine updates should be circulated in writing in advance. The Chair shall propose reasonable, evenhanded speaking limits (normally two minutes for an initial contribution and one minute per subsequent contribution), give priority to those who have not spoken, and seek consent or a procedural vote for extensions. Members may contribute in writing without these oral time limits. Accommodations for accessibility, language, and complex subjects shall be made.
+
+At least one-third of the time of an ordinary meeting should normally be reserved for pending motions and decisions unless the Council agrees otherwise. Multiple motions may be discussed or voted on in one meeting. Uncontroversial procedural items may be grouped into a consent agenda, but any Councilor can require separate consideration; formal recorded votes and thresholds cannot be bypassed.
+
 ### Agenda
 
-1. All Council members may propose items for the agenda, by bringing the item to the Council before the beginning of the meeting.
-2. On request, the agenda may be adapted by a procedural vote at the beginning of the meeting.
+1. Every Councilor may submit agenda items before a meeting. Timely, in-scope items must appear on the published agenda or pending-agenda list, with a reason and proposed date if deferred. The Chair may prioritize urgent Term Sheet obligations but shall not unilaterally suppress an item.
+2. The Secretary shall circulate a draft agenda and relevant materials where practicable at least 48 hours in advance. On request, the agenda may be adapted by a procedural vote at the beginning of the meeting.
+3. Unresolved agenda items shall identify an owner, next step, and target review date, without automatically expiring.
 
 ### Participants
 
@@ -204,7 +219,7 @@ External participants may be invited to attend Council meetings.
 
 ### Minutes
 
-The Thunderbird Council shall keep written minutes of its proceedings in its permanent records. The minutes will include, at the least, the date and time of the meeting, the names of all members present, discussions, motions proposed and voted upon, and any Councilor objections to motions/resolutions.
+The Thunderbird Council shall keep written minutes of its proceedings in its permanent records. The minutes will include, at the least, the date and time of the meeting, the names of all members present, a fair summary of the principal points discussed, motions proposed and voted upon, action items and owners, and any Councilor objections to motions/resolutions. On any Councilor's request, the Secretary shall include a fair summary of any specified part or all of a relevant asynchronous Council discussion in the next meeting notes and publish that summary as part of the next Community update, redacting only protected information. The requesting Councilor may specify the subjects to be covered; the summary need not reproduce the entire discussion verbatim. Draft minutes should be circulated for correction and a redacted public version published normally within seven days, and in any event before the next regular meeting. The Secretary shall maintain links between minutes, decisions, and the motion register; necessary redactions shall be indicated wherever the existence of the redaction may safely be disclosed.
 
 ### Community Updates
 
@@ -224,17 +239,27 @@ The Chairperson does not have any additional powers nor extra votes. Any referen
 
 A motion is a written proposal submitted at any time by a Council member.
 
-Second to the motion: Another Council member seconds the motion, so that the motion may proceed to discussion. If a motion does not receive a second then the motion dies. (A second does not indicate the seconder favors the motion.)
+**Community proposals:** Any Thunderbird Community member may submit a proposal through a publicly documented intake channel. The Council shall acknowledge it and publish a non-confidential status. A Councilor may sponsor it as a formal motion; two Councilors' sponsorship or seconding triggers the ordinary discussion process. Proposals not sponsored shall receive a brief public disposition where practicable, but do not automatically require a Council vote. The intake process shall apply impartial moderation, confidentiality, and anti-spam rules.
 
-Discussion: The Council discusses the motion during which the motion may be amended, tabled for a future date, withdrawn, or have a vote called. There must be a minimum period of 72 hours for discussion.
+**Second:** Another Councilor may second a motion to allow its formal discussion. A second does not imply support for the motion. An unseconded motion remains pending until seconded or withdrawn by its proposer; it does not expire automatically.
 
-Call for vote: The Chair shall call the vote. A procedural vote may be called by any Council member as to whether the motion should be voted on, a procedural vote passes if more than 50% of those making up the quorum vote in favor of the procedural vote.
+**Pending motions:** The Secretary shall maintain a complete register accessible to all Councilors by default, including all unseconded motions. Neither an interface nor an administrative practice may hide motions older than two months by default. Pending motions must not be automatically closed, removed, or treated as withdrawn merely because they have not yet received a second, discussion, or a vote. The Secretary shall circulate a reminder of motions awaiting a second at least once every 30 days, including a link to the full register. Non-confidential pending motions, including unseconded proposals, shall also be listed in a public register with their current status and last substantive update.
 
-The Chair declares vote in progress: The Chair shall ensure the motion is in writing in the Council minutes to ensure that the wording is finalized and understood by all attendees, and calls the vote. The Chair shall declare how long the voting period will remain open with a minimum of 24 hours and a maximum of 7 days.
+**Discussion:** Each seconded motion must receive a genuine opportunity for deliberation, amendment, and consultation before voting. The motion and relevant supporting materials must be available to all Councilors for at least 72 hours before voting, during which members may consider the proposal, provide comments, and propose amendments. A motion principally discussed at a meeting may be debated and voted on at the same meeting once that minimum period has elapsed. For consequential matters (including budgets, roadmaps, governance, and significant commitments), the default consideration period is at least seven days unless all eligible Councilors agree that the matter is ready sooner, but never less than the mandatory 72 hours. Applicable longer notice periods, including for bylaw amendments, continue to apply. Councilors may request a reasonable extension to prepare amendments, obtain material information, consult the Community, or negotiate with TBTC; an extension request and disposition shall be recorded.
 
-Voting: The secretary shall ensure that each member is notified that a vote has been called. Members must vote YES, NO, or ABSTAIN. The voting period ends when either all members have voted, or the set time limit is reached.
+**Amendments:** Any Councilor may propose a written amendment during discussion. The proposer may incorporate an unopposed amendment; contested amendments shall be discussed and, where necessary, decided by an ordinary procedural vote before the final motion. A vote cannot begin while a duly submitted amendment remains unresolved.
 
-Voting counted and concluded: A motion is accepted if more than 50% of those making up the quorum vote in favor of a motion.
+**Postponement and follow-up:** A motion may be postponed by the proposer or a procedural vote, stating an owner or reason and a next review date. Postponement does not cause expiration. The Council shall maintain a status and action register for unresolved items. The proposer may withdraw a motion before voting; after voting begins, withdrawal requires Council consent.
+
+**Call for vote:** After the applicable discussion period, the Chair shall schedule an asynchronous vote within seven days of a request by the proposer or another Councilor, or place a synchronous vote on the agenda of the next regular meeting (or a reasonably scheduled special meeting), unless the Council agrees to a documented postponement. Any Councilor may request a procedural vote on scheduling a vote; a passing procedural vote obliges the Chair or Secretary to schedule it, and cannot dispense with mandatory notice or discussion. Closing discussion early over an objection requires two-thirds of active Councilors, and never overrides minimum notice or review periods. Any Councilor may raise a point of order or appeal a procedural ruling to the Council; the Chair shall state the ruling and an appeal is decided by an ordinary procedural vote.
+
+**Form of discussion and voting:** A motion substantively discussed at an in-person Council meeting shall be voted on at an in-person Council meeting; one discussed at a live remote Council meeting shall be voted on live at a Council meeting; and one discussed asynchronously shall be voted on asynchronously. Voting may occur at a later meeting if further preparation is needed. If substantive discussion occurs in more than one format, the Council shall choose the voting format by an ordinary procedural vote before opening the final vote, using a fair process that does not exclude members merely to influence the outcome. Distribution of documents and incidental written questions alone do not change the principal discussion format.
+
+**Final text and notice:** The Chair or Secretary shall provide every Councilor the identical, final, dated text of the motion, supporting materials, voting format, applicable deadline (if asynchronous), and threshold before opening the vote. An asynchronous vote shall remain open for at least 24 hours and at most seven days; a meeting vote is conducted and completed during the meeting with quorum present. An expressly urgent operational matter may use a shorter discussion period only with a two-thirds vote of active Councilors, and never where these bylaws or the Term Sheet impose longer notice or approval requirements.
+
+**Voting:** Every Councilor eligible to vote must be notified and may vote YES, NO, or ABSTAIN. For final votes on motions and contested amendments, individual ballots and running totals must remain confidential from other Councilors until voting closes; the Secretary or a neutral administrator may access only what is necessary to administer the vote. At an in-person or live meeting, use simultaneous confidential paper or electronic ballots, collected and counted after participating Councilors have voted; ordinary procedural decisions may be taken by general consent or an open vote unless a Councilor requests a confidential ballot. For asynchronous votes, a Councilor may update a ballot before closing under the same procedure available to everyone, and voting closes at the published deadline or when all eligible Councilors have cast a ballot, whichever comes first. For meeting votes, voting closes after all participating eligible Councilors have had an opportunity to cast a ballot. Only then shall the results and each Councilor's vote be released together and published as provided below. A recusal is recorded separately and is not a ballot.
+
+**Counting:** An ordinary motion passes when YES votes outnumber NO votes and the applicable quorum is satisfied. ABSTAIN does not count as NO or increase the ordinary majority denominator. A tied vote fails. Rules requiring an absolute majority or a fraction of active Councilors, including the two-thirds requirement to amend the bylaws, remain unchanged by abstentions. The Secretary shall record the eligible voters, quorum, votes, recusals, threshold, and outcome.
 
 The secretary shall ensure that completed votes and motions are recorded in the minutes and shared publicly after redacting confidential or sensitive information. The complete public list of Council motions shall be published before the next regularly scheduled meeting including the final motion, the date, and how Council members voted.
 

@@ -21,7 +21,7 @@
 * **Bylaws**: The present rules governing the Thunderbird Council.
 * **Council**: The Thunderbird Council composed of elected members of the Thunderbird project
 * **Members**: the term Members signifies all people recognized as such by the present Bylaws.
-* **MZLA**: MZLA Technologies Corporation
+* **TBTC**: Thunderbird Technologies Corporation
 * **Thunderbird**: The Thunderbird project.
 * **CPG**: [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 
@@ -43,7 +43,7 @@ The current election process is detailed below.
     3. a statement summarizing their contributions to Thunderbird; and
     4. a personal statement.
 4. It is the responsibility of the person desiring to stand to make sure their message makes it to the list. No late self-announcements will be accepted for any reason.
-5. In the case there are more than two people nominated from the same professional affiliation, a pre-election will take place first, and the two winners will continue to the real election. No single organization or company will be allowed to control more than 2 seats of the Council, regardless of election results. Mozilla Foundation, Mozilla Corporation, and MZLA Technologies Corporation are considered separate organizations.
+5. In the case there are more than two people nominated from the same professional affiliation, a pre-election will take place first, and the two winners will continue to the real election. No single organization or company will be allowed to control more than 2 seats of the Council, regardless of election results. Mozilla Foundation, Mozilla Corporation, and Thunderbird Technologies Corporation are considered separate organizations.
 
    In the event that individuals affiliated with a corporation or organization hold more than 2 seats, affiliates from that corporation will be required to resign until more than 2 seats are no longer held.
 
@@ -101,7 +101,7 @@ Contributors are eligible to vote in Thunderbird Council elections if they fulfi
 
 Elector qualification is 20 hours of contribution within the previous two years.
 
-To avoid conflicting duties from multiple directorships, members of the board of directors of Mozilla Foundation, Mozilla Corporation, and MZLA Technologies Corporation may not serve on the Thunderbird Council.
+To avoid conflicting duties from multiple directorships, members of the board of directors of Mozilla Foundation, Mozilla Corporation, and Thunderbird Technologies Corporation may not serve on the Thunderbird Council.
 
 ### Renewal
 
@@ -130,13 +130,13 @@ Council roles are elected by the Council. Each role has a 1-year term.
 
 Organize the work of the Thunderbird Council and encourage members to do the same
 
-1. Working with MZLA Technologies to approve annual budgets
-2. Primary interface with MZLA Technologies
-3. Provide direction to the high level MZLA Technologies staff
+1. Working with TBTC to approve annual budgets
+2. Primary interface with TBTC
+3. Provide direction to the high level TBTC staff
 4. Primary spokesperson for the project
 5. Update the community about Thunderbird Council progress
 6. Ensure proper handover to the new Thunderbird Council, all unresolved issues/tasks from prior term are transferred to the new Thunderbird Council
-7. Represent the Thunderbird Council in MZLA Quarterly Board meetings
+7. Represent the Thunderbird Council in TBTC Quarterly Board meetings
 8. Prepare the agenda based on the input of other Councilors and run the Thunderbird Council meetings
 
 #### Secretary
@@ -154,7 +154,7 @@ Organize the work of the Thunderbird Council and encourage members to do the sam
 4. Improve the structure and operation of the Thunderbird Council
 5. Lead and participate in Thunderbird Council projects
 6. Spokesperson for the project
-7. Interface with MZLA Technologies
+7. Interface with TBTC
 8. If chairperson and secretary are not present, a member may act as the chairperson for the duration of the meeting after a procedural vote.
 
 ### Compensation
@@ -163,7 +163,7 @@ Councilors will not be paid for their services. However, the Thunderbird Council
 
 ### Indemnity
 
-Members of the Council are indemnified under the bylaws of MZLA Technologies Corporation in their capacities as agents of the corporation.
+Members of the Council are indemnified under the bylaws of Thunderbird Technologies Corporation in their capacities as agents of the corporation.
 
 ### Vacancies
 
@@ -240,9 +240,9 @@ The secretary shall ensure that completed votes and motions are recorded in the 
 
 ## Confidentiality
 
-Upon joining the Thunderbird Council, each Councilor, including the elected MZLA staff, shall sign an NDA with MZLA in order to access MZLA proprietary information. The Council discussions should primarily be considered privileged information that is not to be shared with the public. This is notwithstanding the “Community Updates” section, which describes how the community is kept updated of Council matters.
+Upon joining the Thunderbird Council, each Councilor, including the elected TBTC staff, shall sign an NDA with TBTC in order to access TBTC proprietary information. The Council discussions should primarily be considered privileged information that is not to be shared with the public. This is notwithstanding the “Community Updates” section, which describes how the community is kept updated of Council matters.
 
-As defined by the [Thunderbird Operational Rules Term Sheet](https://github.com/thundernest/council-docs/blob/main/TERM_SHEET.md), Council members shall have access to information related to the Thunderbird project, including to MZLA proprietary information, but will not have access to personal information of individual employees.
+As defined by the [Thunderbird Operational Rules Term Sheet](https://github.com/thundernest/council-docs/blob/main/TERM_SHEET.md), Council members shall have access to information related to the Thunderbird project, including to TBTC proprietary information, but will not have access to personal information of individual employees.
 
 Council members must use official communication channels, such as their thunderbird.net email address, when performing Council activities. Thunderbird.net emails are only for use while a member is actively on the Council.
 

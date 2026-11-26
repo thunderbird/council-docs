@@ -38,7 +38,7 @@ We believe everyone has something unique to offer, and we would love to have you
 
 Even if you are undecided about running, we encourage you to reach out to discuss how you can contribute. Thunderbird will be at FOSDEM, and we are excited about the opportunity to meet and connect in person with those who will be present.
 
-As Brian Behlendorf, a distinguished member of the MZLA Board, aptly paraphrased during one of our discussions, “Ask not what Thunderbird can do for you – ask what you can do for Thunderbird.” This echoes the sentiment that our contributions to Thunderbird are what truly drive the project forward.
+As Brian Behlendorf, a distinguished member of the TBTC Board, aptly paraphrased during one of our discussions, “Ask not what Thunderbird can do for you – ask what you can do for Thunderbird.” This echoes the sentiment that our contributions to Thunderbird are what truly drive the project forward.
 
 Thank you for considering this opportunity to contribute to one of the most significant FLOSS projects.
 

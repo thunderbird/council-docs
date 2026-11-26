@@ -17,7 +17,7 @@ To contact the entire Council, email: <council@thunderbird.net>
 <img class="circle" src="../img/philipp_kewisch-high-res.png" width="150">
 **Chair - Philipp Preißer-Kewisch** (Fallen)  
 Founding Council member,  
-Director Web Services at MZLA  
+Director Web Services at TBTC  
 :fontawesome-solid-at: Email: <kewisch@thunderbird.net>  
 &nbsp;&nbsp;&nbsp;&nbsp;:fontawesome-solid-key: [OpenPGP key](https://keys.openpgp.org/search?q=kewisch@thunderbird.net)  
 :fontawesome-solid-m: Matrix: [@kewisch:mozilla.org](https://matrix.to/#/@kewisch:mozilla.org)  
@@ -40,7 +40,7 @@ Thunderbird Instant Messaging Module Owner
 <img class="circle" src="../img/magnus_melin-high-res.png" width="150"><br>
 **Magnus Melin** (mkmelin)  
 Founding Council member,  
-Thunderbird Desktop Developer at MZLA  
+Thunderbird Desktop Developer at TBTC  
 :fontawesome-solid-at: Email: <mkmelin@thunderbird.net>  
 &nbsp;&nbsp;&nbsp;&nbsp;:fontawesome-solid-key: [OpenPGP key](https://keys.openpgp.org/search?q=mkmelin@thunderbird.net)  
 :fontawesome-solid-m: Matrix: [@mkmelin:mozilla.org](https://matrix.to/#/@mkmelin:mozilla.org)

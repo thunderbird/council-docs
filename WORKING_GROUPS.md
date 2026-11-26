@@ -14,7 +14,7 @@ creates unnecessary debate before the work begins.
 
 ## 2025-2026
 
-### Active
+### Closed / Expired
 #### Council Bylaws Working Group - Conflict of Interest
 
 <table>
@@ -65,7 +65,6 @@ details to the draft, following the direction approved by the Council.</p></td><
 </ul></td></tr>
 </table>
 
-### Closed / Expired
 #### Roadmaps Working Group
 
 <table>

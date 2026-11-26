@@ -72,6 +72,13 @@ Computer Scientist and Open Source Software Engineer, Thunderbird Add-on Develop
 :fontawesome-solid-comments: XMPP: tdulcet@jabber.org  
 :fontawesome-solid-globe: Website: [tealdulcet.com](https://tealdulcet.com/)
 ///
+
+/// html | div.member
+<img class="circle" src="../img/danny-colin-high-res.png" width="150"><br>
+**Danny Colin** (sdk)  
+:fontawesome-solid-at: Email: <danny@thunderbird.net>  
+:fontawesome-solid-m: Matrix: [@dannycolin:mozilla.org](https://matrix.to/#/@dannycolin:mozilla.org)
+///
 ///
 
 ## :fontawesome-solid-scroll: Previous Councils

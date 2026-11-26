@@ -21,6 +21,36 @@ Council motions are used for formal decision making in the Thunderbird Council. 
 - Tim Maks van den Broek
 
 <table><tr><th>Outcome</th><th>Motion</th><th>Details</th><th>Votes</th><th>Statements</th>
+<tr class="approved"><td valign="top">🟢 Approved</td><td valign="top"><p>The Council adopts the Roadmapping Process described in <a href="./motion-attachments/2026-11-13-philipps-proposed-roadmap-process.pdf">this document</a>, starting with the 2027 roadmap.
+This establishes a defined annual cycle with five Council checkpoints: long-term vision (ongoing), yearly input (June), review of themes (July/August), review of draft roadmap items (September/October), and final roadmap vote (October/November).</p>
+<p>TBTC leads the day-to-day work of developing themes and drafting roadmap items, drawing on its product and engineering expertise, while the Council provides input based on the level of granularity they feel comfortable with. Each stage offers a minimum-activity option depending on the Council’s available time commitment and involvement.</p>
+<p>The council has opportunity to veto decisions and is encouraged to indicate what factors would cause them to reject the final roadmap. The final roadmap continues to require explicit Council approval before taking effect.</p></span></td><td valign="top">2026-11-13<br>Proposed: Philipp<br><br>Seconded: Tim Maks</td><td valign="top">Yes: Danny, Magnus, Mic, Patrick, Philipp, Tim Maks<br><br>No: Teal</td><td valign="top"></td></tr>
+<tr class="failed"><td valign="top">🔴 Failed</td><td valign="top"><p>The Thunderbird Council adopts <a href="./motion-attachments/2026-11-13-teals-proposed-roadmap-process.pdf">this proposed</a> Council/TBTC Collaborative Roadmap Process as the standing process for developing, approving, reviewing, and amending Thunderbird's annual roadmaps, beginning with the 2027 roadmap cycle and continuing until amended or replaced by a subsequent Council decision.</p>
+<p>This proposal builds on the staged approach proposed by Philipp while incorporating feedback from previous roadmap cycles and the earlier Roadmaps Working Group discussions. Its purpose is to establish a collaborative, Community-driven, evidence-based process that enables the Council to meaningfully fulfill its responsibilities under the Term Sheet, while preserving TBTC's responsibility for day-to-day product development and engineering decisions.</p>
+<p>Specifically, the Council and TBTC shall:</p>
+<ol>
+<li>
+<p>Establish shared strategic direction: Begin with long-term vision and Council-approved annual priorities, then jointly review and reconcile the themes for each roadmap before selecting individual items.</p>
+</li>
+<li>
+<p>Give Council and Community proposals meaningful consideration: Collect proposed roadmap items from TBTC teams, Council members, and Community sources (including Bugzilla, GitHub, Mozilla Connect, and TB Pro Ideas) into a shared candidate register. Evaluate serious proposals using comparable criteria, with brief explanations for those not selected. Neither party's proposals are automatically accepted or rejected.</p>
+</li>
+<li>
+<p>Jointly prioritize roadmap items: Discuss proposed features, priorities, dependencies, and trade-offs before TBTC drafts the final roadmaps. TBTC shall provide proportionate preliminary effort, feasibility, risk, and resource estimates for serious candidates, without requiring unnecessary detailed technical investigations.</p>
+</li>
+<li>
+<p>Provide sufficient opportunities for collaboration: Hold dedicated roadmap working sessions approximately every two weeks, or more frequently when necessary, with all Council members welcome to participate. Volunteer facilitators may coordinate the process but have no independent decision-making authority.</p>
+</li>
+<li>
+<p>Ensure informed final approval: TBTC shall prepare complete roadmap documents identifying major priorities, expected outcomes, approximate timelines, measurable success criteria, and material budget implications. The full Council shall review and approve these documents before implementation.</p>
+</li>
+<li>
+<p>Preserve oversight without sacrificing agility: Conduct quarterly roadmap reviews and provide advance Council review of material roadmap changes, using a streamlined no-objection procedure. Routine engineering decisions remain with TBTC, with narrow exceptions allowing immediate action during genuine emergencies.</p>
+</li>
+</ol>
+<p>Unlike a process in which TBTC develops the roadmaps primarily independently and the Council responds through feedback or vetoes, this proposal emphasizes early collaboration and joint prioritization, so disagreements can be resolved before major decisions become difficult to change.</p>
+<p>The intent is not to micromanage TBTC, increase bureaucracy unnecessarily, or require the Council to accept every Community suggestion. Rather, it is to ensure that the Council is a meaningful partner in shaping Thunderbird's future, consistent with its Term Sheet responsibility as the final and ultimate decision-maker on the yearly product roadmap.</p>
+<p>For the accelerated 2027 cycle, the Council and TBTC should begin this process immediately, with the goal of completing and approving all four roadmaps before the end of 2026.</p></span></td><td valign="top">2026-11-13<br>Proposed: Teal<br><br>Seconded: Tim Maks</td><td valign="top">Yes: Teal<br><br>No: Mic, Patrick, Philipp, Tim Maks<br><br>Abstain: Danny, Magnus</td><td valign="top"></td></tr>
 <tr class="failed"><td valign="top">🔴 Failed</td><td valign="top"><p>The Council kindly asks MZLA to investigate whether Thunderbird might apply for a new generic top-level domain through ICANN for use with Thundermail, Thunderbird Pro, and other current or future Thunderbird services.</p>
 <p>The Council believes that a Thunderbird-controlled gTLD could be a major strategic opportunity for the project. It could give Thunderbird a distinctive public identity, strengthen Thundermail as a service, create new privacy-preserving email options for users, provide new ways for the community to participate in and support the project, and potentially create a long-term source of sustainable revenue aligned with Thunderbird’s mission.
 The full details of this motion <a href="./motion-attachments/2026-08-11-motion-gtld-details.md">are available here</a>.</p></span></td><td valign="top">2026-08-11<br>Proposed: Teal<br><br>Seconded: Mic</td><td valign="top">Yes: Mic, Teal, Tim Maks<br><br>No: Danny, Magnus, Patrick<br><br>Abstain: Philipp</td><td valign="top"></td></tr>
